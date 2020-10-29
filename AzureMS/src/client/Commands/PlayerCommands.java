@@ -386,7 +386,7 @@ public class PlayerCommands {
 		}
 	}
 
-	@Command(names = {"lobby", "town", "plaza"}, parameters = "(portal_id)", requiredType = AccountType.PLAYER)
+	@Command(names = {"lobby", "town", "plaza", "fm"}, parameters = "(portal_id)", requiredType = AccountType.PLAYER)
 	public static class Lobby extends PlayerCommand {
 		@Override
 		public int execute(MapleCharacter c, String[] splitted) {
@@ -590,7 +590,7 @@ public class PlayerCommands {
 		}
 	}
 
-	@Command(names = {"rebirth", "rb"}, parameters = "", requiredType = AccountType.PLAYER)
+	@Command(names = {"rebirth", "rb", "re"}, parameters = "", requiredType = AccountType.PLAYER)
 	public static class Rebirth extends PlayerCommand {
 		@Override
 		public int execute(MapleCharacter c, String[] splitted) {
@@ -602,6 +602,34 @@ public class PlayerCommands {
 		@Override
 		public String getDescription() {
 			return "Opens the rebirth npc.";
+		}
+	}
+
+	@Command(names = {"quickrebirth", "quickrb", "qrb"}, parameters = "", requiredType = AccountType.PLAYER)
+	public static class QuickRebirth extends PlayerCommand {
+		@Override
+		public int execute(MapleCharacter c, String[] splitted) {
+			NPCScriptManager.getInstance().dispose(c.getClient());
+			NPCScriptManager.getInstance().start(c.getClient(), 2510024, null);
+			return 1;
+		}
+
+		@Override
+		public String getDescription() {
+			return "Quick Rebirth";
+		}
+	}
+
+	@Command(names = {"autorebirth", "autorb"}, parameters = "", requiredType = AccountType.PLAYER)
+	public static class AutoRebirth extends PlayerCommand {
+		@Override
+		public int execute(MapleCharacter c, String[] splitted) {
+			return 1;
+		}
+
+		@Override
+		public String getDescription() {
+			return "Auto Rebirth";
 		}
 	}
 }

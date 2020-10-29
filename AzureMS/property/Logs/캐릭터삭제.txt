@@ -825,3 +825,9 @@ Mon Feb 03 19:33:38 EST 2020 [삭제] 닉네임 : SoulN /  계정ID : null
 Mon Feb 03 19:33:49 EST 2020 [삭제] 닉네임 : daniel134 /  계정ID : null
 Mon Feb 03 19:33:58 EST 2020 [삭제] 닉네임 : SoulJP /  계정ID : null
 Tue Mar 03 18:11:01 EST 2020 [삭제] 닉네임 : Soul /  계정ID : ericfeu1
+Sun Oct 25 20:09:59 ICT 2020 [삭제] 닉네임 : Test1 /  계정ID : kenz
+Mon Oct 26 21:49:33 ICT 2020 [삭제] 닉네임 : PathFinderZ /  계정ID : kenz
+Mon Oct 26 23:25:36 ICT 2020 [삭제] 닉네임 : TestZ /  계정ID : admin
+Tue Oct 27 00:54:24 ICT 2020 [삭제] 닉네임 : ArkZ /  계정ID : null
+Tue Oct 27 00:54:30 ICT 2020 [삭제] 닉네임 : PathFinderZ /  계정ID : null
+Thu Oct 29 20:36:47 ICT 2020 [삭제] 닉네임 : TestZ /  계정ID : kenz

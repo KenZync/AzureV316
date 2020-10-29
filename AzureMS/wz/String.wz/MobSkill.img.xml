@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="MobSkill.img"><imgdir name="249"><imgdir name="0"></imgdir><imgdir name="1"><string name="name" value="창조의 저주"/><string name="desc" value="빛의 초월자의 권능 중 창조의 힘으로 인한 저주. HP가 서서히 회복되지만 최종 데미지가 감소하고 일정 시간마다 주변에서 화염이 창조되며 피해를 준다. 창조와 파괴의 저주를 한 번에 받았다면 큰 패널티를 받는다."/></imgdir><imgdir name="2"><string name="name" value="파괴의 저주"/><string name="desc" value="빛의 초월자의 권능 중 파괴의 힘으로 인한 저주. 최종 데미지가 증가하지만 피격 데미지가 증가하고 소모품을 사용할 수 없다. 창조와 파괴의 저주를 한 번에 받았다면 큰 패널티를 받는다."/></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="MobSkill.img">
+<imgdir name="249">
+<imgdir name="0">
+</imgdir>
+<imgdir name="1">
+<string name="name" value="Creative Curse"/>
+<string name="desc" value="The Transcendent of Light&apos;s authority over the power of creation brings about this curse. You will slowly recover HP, but there is a reduction to your final damage count. Flames erupt around you periodically, dealing damage. You&apos;ll receive a large penalty if you&apos;re afflicted by both the Creative Curse and the Destructive Curse at the same time."/>
+</imgdir>
+<imgdir name="2">
+<string name="name" value="Destructive Curse"/>
+<string name="desc" value="The Transcendent of Light&apos;s authority over the power of destruction brings about this curse. Your final damage count increases, but you also receive more damage from hits, and you cannot use consumables. You&apos;ll receive a large penalty if you&apos;re afflicted by both the Creative Curse and the Destructive Curse at the same time."/>
+</imgdir>
+</imgdir>
+<imgdir name="261">
+<imgdir name="0">
+</imgdir>
+<imgdir name="1">
+<string name="name" value="Cruel Brand"/>
+<string name="desc" value="You&apos;ve been branded by Mitsuhide."/>
+</imgdir>
+<imgdir name="2">
+</imgdir>
+<imgdir name="3">
+<string name="name" value="Provoke"/>
+<string name="desc" value="You&apos;ve been provoked by Mitsuhide! Your attacks against Mitsuhide deal more damage, but your defenses against him are weakened. If you don&apos;t deal enough damage within the time limit, you&apos;ll be overwhelmed by Mitsuhide&apos;s powers."/>
+</imgdir>
+<imgdir name="4">
+<string name="name" value="Overwhelm"/>
+<string name="desc" value="You&apos;ve been overwhelmed by Mitsuhide&apos;s attacks! Your attacks have been crippled, but you also take less damage. Mitsuhide&apos;s mirror images have descended upon you en masse."/>
+</imgdir>
+</imgdir>
+<imgdir name="123">
+<imgdir name="112">
+<string name="name" value="Counterattack"/>
+<string name="desc" value="You&apos;ve been struck by Mitsuhide&apos;s counterattack! Whenever Mitsuhide is struck with a stun or bind effect, or one of his provoked targets are defeated, your party will be temporarily immobilized by a bolt of lightning, and Mitsuhide grows in strength."/>
+</imgdir>
+</imgdir>
+</imgdir>

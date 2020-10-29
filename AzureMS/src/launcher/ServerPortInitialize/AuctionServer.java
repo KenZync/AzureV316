@@ -18,7 +18,7 @@ import launcher.Utility.netty.MapleNettyHandler;
 
 public class AuctionServer {
 
-    public static final int PORT = 12000;
+    public static final int PORT = 8590;
     private MapleCashShopPlayerHolder players;
     private static final AuctionServer instance = new AuctionServer();
     private ServerBootstrap bootstrap;

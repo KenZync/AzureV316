@@ -1,1 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="MobFilter.img"><string name="1" value="스타포스 몬스터"/><string name="2" value="아케인 리버 몬스터"/><string name="5" value="스타포스 엘리트 몬스터"/></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="MobFilter.img">
+<string name="1" value="Star Force Monster"/>
+<string name="2" value="Arcane River Monster"/>
+<string name="5" value="Star Force Elite Monster"/>
+</imgdir>

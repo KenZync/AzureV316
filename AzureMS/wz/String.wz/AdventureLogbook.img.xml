@@ -1,1 +1,1190 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="AdventureLogbook.img"><imgdir name="text"><imgdir name="101"><string name="title" value="1. 새로운 모험의 시작"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="새로운 마음으로 시작하는 메이플 월드에서의 모험! 메이플 아일랜드에서 따라온 듯한 단풍잎을 하나 주웠다. 이것도 기념이니 모험의 서에 끼워두기로 했다."/></imgdir><imgdir name="1"><string name="text" value="이제부터 어떤 이야기가 시작될까?"/></imgdir></imgdir></imgdir><imgdir name="102"><string name="title" value="2. 모험이 어울리지 않는 소녀"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="여섯갈래의 길에서 우연히 만난 모험가, 슈가."/></imgdir><imgdir name="1"><string name="text" value="메이플 아일랜드에서 한 번도 나와본 적이 없다는 슈가는 전직 시험을 보러 엘리니아에 가야하는데, 벌레가 무서워서 갈 수가 없다고 한다."/></imgdir><imgdir name="2"><string name="text" value="겨우 벌레를 쫓아내어 주었지만, 이번엔 나무의 상처가 안타까워서 자리를 떠날 수 없다고. 우여곡절 끝에 나무에 좋은 영양제를 구해다 주었다."/></imgdir><imgdir name="3"><string name="text" value="벌레가 무섭다지 않나, 나무가 가엽다지 않나. 모험가가 어울리지 않는 게 아닐까?"/></imgdir><imgdir name="4"><string name="text" value="본인 스스로도 그 사실은 알고 있다고 한다. 하지만 메이플 월드에 언젠가 일어날 무서운 일에 대비하기 위해 여행을 떠나올 수 밖에 없었다는데……."/></imgdir></imgdir></imgdir><imgdir name="103"><string name="title" value="3. 도둑맞은 보석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="모험가 길드의 귀중한 보석을 복면을 쓴 수상한 자에게 도둑맞고 말았다!"/></imgdir><imgdir name="1"><string name="text" value="헬레나의 부탁으로 헤네시스 외곽까지 복면을 쓴 자를 추격한 끝에 보석을 되찾은 순간, &quot;보석을 찾아줘서 고마워요.&quot;라며 모험가 올리비아가 나타나는데?"/></imgdir><imgdir name="2"><string name="text" value="임무 도중 보석을 잃어버린 것은 자신이라며, 보석을 건내달라는 올리비아."/></imgdir><imgdir name="3"><string name="text" value="하지만 그 말을 믿고 보석을 건내주자마자, 그녀는 사라져버렸다. 아무래도 수상쩍은 것 같아, 헬레나를 찾아가보아가 들은 것은 올리비아가 보석을 훔쳐 달아났다는 청천벽력같은 소식이었다."/></imgdir><imgdir name="4"><string name="text" value="도둑맞은 보석은 &apos;봉인석&apos;이라는 신비한 힘을 가진 물건이라고…. 헬레나는 최근 그 봉인석을 노리는 자들이 있다고 말한다. 그 자들의 정체는? 그리고 봉인석의 힘이란 무엇일까?"/></imgdir></imgdir></imgdir><imgdir name="104"><string name="title" value="4. 진짜 범인은 누구인가"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="봉인석을 훔쳐간 올리비아를 그대로 둘 수는 없는 일. 올리비아를 붙잡아 와달라는 헬레나의 부탁으로 에레브에 도착했다."/></imgdir><imgdir name="1"><string name="text" value="하지만 정작 올리비아는 자신이 범인이 아니라며 극구 부인한다. 진짜 범인은, 올리비아의 모습으로 변신한 &apos;변신술사&apos;라는데?"/></imgdir><imgdir name="2"><string name="text" value="그 말이 사실일까 고민하는 사이에, 도적 길드에서 또다른 추적자가 올리비아를 찾아와 변명도 듣지 않고 그대로 올리비아를 연행해가버렸다."/></imgdir><imgdir name="3"><string name="text" value="끌려가면서도, 내게 자신을 대신해 에레브의 나인하트를 찾아가달라 부탁하는 올리비아."/></imgdir><imgdir name="4"><string name="text" value="나인하트가 직접 써준 문서에 따르자면 모습을 자유자재로 변하는 &apos;변신술사&apos;의 존재는 아무래도 사실인 것 같다."/></imgdir><imgdir name="5"><string name="text" value="과연 진짜 범인은 누구일까?"/></imgdir></imgdir></imgdir><imgdir name="105"><string name="title" value="5. 블랙윙의 변신술사"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="드디어 범인의 실마리가 잡혔다!"/></imgdir><imgdir name="1"><string name="text" value="엘나스 수정의 통로에 변신술사가 침입했다는 소식에 달려가보니 슈가, 테스, 론도, 그리고 올리비아가 기다리고 있었다."/></imgdir><imgdir name="2"><string name="text" value="론도가 엿들은 바에 의하면 변신술사를 비롯한 블랙윙의 조직원들은 봉인석이 무엇에 쓰이는 물건인지 모른 채 그저 위에서 시키는 대로 봉인석을 모으고 있었다."/></imgdir><imgdir name="3"><string name="text" value="슈가의 도움으로 변신술사를 급습해 물리치고, 되찾은 봉인석을 헬레나에게 돌려주었다."/></imgdir><imgdir name="4"><string name="text" value="잘 해결되기는 했지만, 의문은 너무나 많이 남아있다."/></imgdir><imgdir name="5"><string name="text" value="봉인석은 무엇일까? 봉인석을 모으는, 블랙윙의 목적은 무엇일까?"/></imgdir><imgdir name="6"><string name="text" value="...어쩌면 검은 마법사와 관계가 있는 걸까?"/></imgdir></imgdir></imgdir><imgdir name="106"><string name="title" value="6. 깨어진 봉인"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="머지 않은 검은 마법사의 부활에 대비해 태세를 정비하던 도중, 시간의 신전에서 현재의 문이 열려있는 것을 발견했다!"/></imgdir><imgdir name="1"><string name="text" value="그리고 그 끝에서 만난 검은 마법사……."/></imgdir><imgdir name="2"><string name="text" value="봉인의 부서진 부분에 새 봉인석을 끼워넣으면 검은 마법사를 막을 수 있을지도 모른다."/></imgdir><imgdir name="3"><string name="text" value="그렇게 생각하고 봉인석을 끼워넣으려는 찰나, 이제껏 단 한 번도 들은 적이 없던 사악한 목소리가 들려왔다."/></imgdir><imgdir name="4"><string name="text" value="#e&quot;어리석은 짓을 하지 말아라. 어둠에 복종해라.&quot;#n"/></imgdir><imgdir name="5"><string name="text" value="두려운 목소리. 하지만 메이플 월드의 평화를 위해서는 용기를 내야한다!  거부하고 봉인석을 끼워넣으려한 순간, 간발의 차이로 봉인은 부서져버렸다. 그리고 울려퍼지는, 어둠의 목소리."/></imgdir><imgdir name="6"><string name="text" value="#e&quot;너의 어리석음의 대가를 치를 것이다…&quot;#n"/></imgdir></imgdir></imgdir><imgdir name="107"><string name="title" value="7. 메이플 아일랜드에 닥친 재앙"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="메이플 아일랜드에 돌연 닥친 재앙. 슈가의 연락을 받고 달려간 그곳은 이전에 알던 메이플 아일랜드가 아니었다."/></imgdir><imgdir name="1"><string name="text" value="마을을 뒤덮은 혼돈 속에서, 홀로 단풍나무 언덕으로 향했다는 소녀의 뒤를 쫓자 그 곳엔 불에 탈 위험에 처한 단풍나무와 그것을 막아내기 위해 안간힘을 쓰는 슈가가 있었다."/></imgdir><imgdir name="2"><string name="text" value="갈림길에서 떠간 샘물로 가까스로 불을 끈 뒤, 슈가의 상처를 깨달았지만, 다시 떠다준 물도 그녀는 단풍나무에 쏟아버렸다. &quot;난 괜찮아.&quot; 라면서."/></imgdir><imgdir name="3"><string name="text" value="뒤늦게 도착한 이들과 함께 메이플 아일랜드가 원래 모습을 되찾을 방법을 고민하던 중 문득 봉인석의 힘에 생각이 닿았다. 하지만 그 사용방법은 우리 중에 아무도 알지 못한다."/></imgdir><imgdir name="4"><string name="text" value="그렇다면 방법은 한 가지, 봉인석을 만든 자들, &apos;영웅&apos;을 직접 찾아가는 것 뿐이다!"/></imgdir></imgdir></imgdir><imgdir name="108"><string name="title" value="8. 전사의 영웅, 아란"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="아란을 찾아 도착한 리엔섬. 그곳에서 만난 얼음같이 차가운 소녀, 리린은 내게 아란에 대해 얼마나 알고 있는지 물었다."/></imgdir><imgdir name="1"><string name="text" value="질문에 대답하는 사이에 기다리던 아란이 나타났지만, 기억을 잃었기에 봉인석에 대해 자세히 대답해줄 수 없다고 한다."/></imgdir><imgdir name="2"><string name="text" value="아란이 보여준 봉인석은, 내가 알고 있던 봉인석과는 담겨있는 에너지가 달라, 아란은 대륙에 따라 봉인석이 따로 존재하는 것이 아닐까 추측하고 있었다. 그리고 그것이 사실이라면, 봉인석의 상당수가 블랙윙의 손에 있는 지금 상황은 곤란할 수 밖에 없다고……."/></imgdir><imgdir name="3"><string name="text" value="언젠가 힘을 빌려주겠다고 약속하는 아란과 헤어져 메이플 아일랜드로 돌아왔다."/></imgdir><imgdir name="4"><string name="text" value="결국, 모두가 알아내온 정보를 조합하여 나온 결론은 이것이었다."/></imgdir><imgdir name="5"><string name="text" value="#e메이플 월드의 봉인석은 없다.#n"/></imgdir></imgdir></imgdir><imgdir name="109"><string name="title" value="9. 다시 강림한 어둠"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="설령 봉인석이 없더라도 메이플 아일랜드의 본래 모습을 되찾기 위해 할 수 있는 일이 있을 것이다."/></imgdir><imgdir name="1"><string name="text" value="모두가 힘을 모아 메이플 아일랜드의 파괴를 조금이라도 씻어내기 위해 노력하던 도중, 마을 쪽에서 심상찮은 기운이 느껴진다."/></imgdir><imgdir name="2"><string name="text" value="언젠가 맡아본 적이 있는 어둠의 냄새, 검은 마법사의 그림자였다."/></imgdir><imgdir name="3"><string name="text" value="분명 그 힘은 검은 마법사의 일부에도 미치지 않는다."/></imgdir><imgdir name="4"><string name="text" value="하지만 그럼에도 불구하도 아무런 공격도 통하지 않는 그림자."/></imgdir><imgdir name="5"><string name="text" value="점점 힘은 빠져나가고, 이제 끝인 걸까?"/></imgdir><imgdir name="6"><string name="text" value="그렇게 생각한 순간, 모두가 내게 힘을 모아주었다. 마지막 남은 힘까지 추스려 다시 그림자의 앞에 서자, 품 속에서 신비한 빛을 뿜으며 단풍잎이 눈 앞에 떠올랐다."/></imgdir></imgdir></imgdir><imgdir name="110"><string name="title" value="10. 새로운 봉인석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="눈 앞에 떠오른 단풍잎은 신비한 보석으로 변했다."/></imgdir><imgdir name="1"><string name="text" value="그리고 나타난 여신이 새로운 힘을 부여하여, 이제까지 닿지 않던 공격이 들기 시작했다!"/></imgdir><imgdir name="2"><string name="text" value="어둠은 완전히 사라졌다."/></imgdir><imgdir name="3"><string name="text" value="여신은 자신이 언덕의 단풍나무에 깃든, 메이플 월드의 정신체라고 말한다."/></imgdir><imgdir name="4"><string name="text" value="메이플 월드의 위기를 느끼고 자신의 분신인 슈가를 보내어 죽 지켜보고 있었노라고."/></imgdir><imgdir name="5"><string name="text" value="그리고 보석으로 변한 단풍잎은 모두의 힘으로 만들어낸 &apos;메이플 아일랜드의 봉인석&apos;이라고."/></imgdir><imgdir name="6"><string name="text" value="봉인석의 힘을 사용하여 메이플 아일랜드를 원래의 모습으로 되돌릴 수 있었다."/></imgdir><imgdir name="7"><string name="text" value="기쁨과 아쉬움 속에 모두와 작별 인사를 했다."/></imgdir><imgdir name="8"><string name="text" value="하지만 이것은 하나의 이야기의 끝. 아직 시작되지 않은 다음 이야기가, 또다른 모험이 나를 기다리고 있다."/></imgdir></imgdir></imgdir><imgdir name="201"><string name="title" value="1. 새로운 모험의 시작"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="새로운 마음으로 시작하는 메이플 월드에서의 모험! 메이플 아일랜드에서 따라온 듯한 단풍잎을 하나 주웠다. 이것도 기념이니 모험의 서에 끼워두기로 했다."/></imgdir><imgdir name="1"><string name="text" value="이제부터 어떤 이야기가 시작될까?"/></imgdir></imgdir></imgdir><imgdir name="202"><string name="title" value="2. 이형의 모험가"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="여섯갈래의 길에서 만난 수상한 사람."/></imgdir><imgdir name="1"><string name="text" value="장난 삼아 모자를 날려보았더니 드러난 것은 놀랍게도 커다란 귀였다."/></imgdir><imgdir name="2"><string name="text" value="모자가 없으면 돌아다닐 수가 없다는 그는 자신과 같은 혈통의 사람을 찾기 위해 메이플 월드를 여행하는 모험가, 론도였다."/></imgdir><imgdir name="3"><string name="text" value="론도의 요청으로 방문한 그란디스에서 동물과 닮은 외모를 지녔다는 종족 &apos;아니마족&apos;에 대한 이야기를 들을 수 있었다."/></imgdir><imgdir name="4"><string name="text" value="하지만 그란디스 전체를 뒤덮은 전란으로, 판테온 바깥으로 나가는 것은 무리라는데……."/></imgdir><imgdir name="5"><string name="text" value="막무가내로 경계까지 가보았지만, 끝이 없는 적병들의 공격을 뚫고 바깥으로 나가는 것은 역시나 불가능했다."/></imgdir><imgdir name="6"><string name="text" value="힘을 더욱 길러 언젠가는 반드시 아니마족의 마을을 찾겠다며, 론도는 도와준 것에 대해 고맙다고 했다."/></imgdir></imgdir></imgdir><imgdir name="203"><string name="title" value="3. 도둑맞은 보석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="모험가 길드의 귀중한 보석을 복면을 쓴 수상한 자에게 도둑맞고 말았다!"/></imgdir><imgdir name="1"><string name="text" value="헬레나의 부탁으로 헤네시스 외곽까지 복면을 쓴 자를 추격한 끝에 보석을 되찾은 순간, &quot;보석을 찾아줘서 고마워요.&quot;라며 모험가 올리비아가 나타나는데?"/></imgdir><imgdir name="2"><string name="text" value="임무 도중 보석을 잃어버린 것은 자신이라며, 보석을 건내달라는 올리비아."/></imgdir><imgdir name="3"><string name="text" value="하지만 그 말을 믿고 보석을 건내주자마자, 그녀는 사라져버렸다. 아무래도 수상쩍은 것 같아, 헬레나를 찾아가보아가 들은 것은 올리비아가 보석을 훔쳐 달아났다는 청천벽력같은 소식이었다."/></imgdir><imgdir name="4"><string name="text" value="도둑맞은 보석은 &apos;봉인석&apos;이라는 신비한 힘을 가진 물건이라고…. 헬레나는 최근 그 봉인석을 노리는 자들이 있다고 말한다. 그 자들의 정체는? 그리고 봉인석의 힘이란 무엇일까?"/></imgdir></imgdir></imgdir><imgdir name="204"><string name="title" value="4. 진짜 범인은 누구인가"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="봉인석을 훔쳐간 올리비아를 그대로 둘 수는 없는 일. 올리비아를 붙잡아 와달라는 헬레나의 부탁으로 에레브에 도착했다."/></imgdir><imgdir name="1"><string name="text" value="하지만 정작 올리비아는 자신이 범인이 아니라며 극구 부인한다. 진짜 범인은, 올리비아의 모습으로 변신한 &apos;변신술사&apos;라는데?"/></imgdir><imgdir name="2"><string name="text" value="그 말이 사실일까 고민하는 사이에, 도적 길드에서 찾아온 론도는 막무가내로 올리비아를 연행해가려 한다."/></imgdir><imgdir name="3"><string name="text" value="두 사람의 다툼이 끝날 기미가 없어, 하는 수 없이 론도의 약점을 가르쳐주었다."/></imgdir><imgdir name="4"><string name="text" value="약점때문에 옴짝달싹 못하는 론도를 두고 올리비아와 함께 찾아간 에레브의 책사 나인하트."/></imgdir><imgdir name="5"><string name="text" value="그가 써준 서신을 증거로 삼겠다며, 올리비아는 론도를 따라 가버렸다."/></imgdir><imgdir name="6"><string name="text" value="과연 진짜 범인은 누구일까?"/></imgdir></imgdir></imgdir><imgdir name="205"><string name="title" value="5. 블랙윙의 변신술사"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="드디어 범인의 실마리가 잡혔다!"/></imgdir><imgdir name="1"><string name="text" value="엘나스 수정의 통로에 변신술사가 침입했다는 소식에 달려가보니 슈가, 테스, 론도, 그리고 올리비아가 기다리고 있었다."/></imgdir><imgdir name="2"><string name="text" value="론도가 엿들은 바에 의하면 변신술사를 비롯한 블랙윙의 조직원들은 봉인석이 무엇에 쓰이는 물건인지 모른 채 그저 위에서 시키는 대로 봉인석을 모으고 있었다."/></imgdir><imgdir name="3"><string name="text" value="슈가의 도움으로 변신술사를 급습해 물리치고, 되찾은 봉인석을 헬레나에게 돌려주었다."/></imgdir><imgdir name="4"><string name="text" value="잘 해결되기는 했지만, 의문은 너무나 많이 남아있다."/></imgdir><imgdir name="5"><string name="text" value="봉인석은 무엇일까? 봉인석을 모으는, 블랙윙의 목적은 무엇일까?"/></imgdir><imgdir name="6"><string name="text" value="...어쩌면 검은 마법사와 관계가 있는 걸까?"/></imgdir></imgdir></imgdir><imgdir name="206"><string name="title" value="6. 깨어진 봉인"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="머지 않은 검은 마법사의 부활에 대비해 태세를 정비하던 도중, 시간의 신전에서 현재의 문이 열려있는 것을 발견했다!"/></imgdir><imgdir name="1"><string name="text" value="그리고 그 끝에서 만난 검은 마법사……."/></imgdir><imgdir name="2"><string name="text" value="봉인의 부서진 부분에 새 봉인석을 끼워넣으면 검은 마법사를 막을 수 있을지도 모른다."/></imgdir><imgdir name="3"><string name="text" value="그렇게 생각하고 봉인석을 끼워넣으려는 찰나, 이제껏 단 한 번도 들은 적이 없던 사악한 목소리가 들려왔다."/></imgdir><imgdir name="4"><string name="text" value="#e&quot;어리석은 짓을 하지 말아라. 어둠에 복종해라.&quot;#n"/></imgdir><imgdir name="5"><string name="text" value="두려운 목소리. 하지만 메이플 월드의 평화를 위해서는 용기를 내야한다!  거부하고 봉인석을 끼워넣으려한 순간, 간발의 차이로 봉인은 부서져버렸다. 그리고 울려퍼지는, 어둠의 목소리."/></imgdir><imgdir name="6"><string name="text" value="#e&quot;너의 어리석음의 대가를 치를 것이다…&quot;#n"/></imgdir></imgdir></imgdir><imgdir name="207"><string name="title" value="7. 메이플 아일랜드에 닥친 재앙"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="메이플 아일랜드에 돌연 닥친 재앙. 슈가의 연락을 받고 달려간 그곳은 이전에 알던 메이플 아일랜드가 아니었다."/></imgdir><imgdir name="1"><string name="text" value="마을을 뒤덮은 혼돈 속에서, 홀로 단풍나무 언덕으로 향했다는 소녀의 뒤를 쫓자 그 곳엔 불에 탈 위험에 처한 단풍나무와 그것을 막아내기 위해 안간힘을 쓰는 슈가가 있었다."/></imgdir><imgdir name="2"><string name="text" value="갈림길에서 떠간 샘물로 가까스로 불을 끈 뒤, 슈가의 상처를 깨달았지만, 다시 떠다준 물도 그녀는 단풍나무에 쏟아버렸다. &quot;난 괜찮아.&quot; 라면서."/></imgdir><imgdir name="3"><string name="text" value="뒤늦게 도착한 이들과 함께 메이플 아일랜드가 원래 모습을 되찾을 방법을 고민하던 중 문득 봉인석의 힘에 생각이 닿았다. 하지만 그 사용방법은 우리 중에 아무도 알지 못한다."/></imgdir><imgdir name="4"><string name="text" value="그렇다면 방법은 한 가지, 봉인석을 만든 자들, &apos;영웅&apos;을 직접 찾아가는 것 뿐이다!"/></imgdir></imgdir></imgdir><imgdir name="208"><string name="title" value="8. 마법사 영웅, 에반"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="마법사 영웅, 에반을 찾아서 방문한 곳은 헤네시스의 한 농가. 영웅의 형이라는 소년의 말에 반신반의하고 있었지만, 정말로 눈 앞에 나타난 것은 드래곤을 탄 소년이었다!"/></imgdir><imgdir name="1"><string name="text" value="공교롭게도 자신은 봉인석에 대해서는 잘 모른다며, 에반은 선대 드래곤 마스터의 계약용, 이프리엔을 찾아서 봉인석에 대한 정보를 가져다 주었다."/></imgdir><imgdir name="2"><string name="text" value="그 과정에서 유타가 시킨 심부름을 해야하긴 했지만……."/></imgdir><imgdir name="3"><string name="text" value="이렇게나 어린 소년이 영웅이라니 믿을 수 없다고 말하자, &quot;그건 서로 마찬가지에요. 젊은 모험가님.&quot;라고 대답하여 에반은 떠나갔다."/></imgdir><imgdir name="4"><string name="text" value="결국, 모두가 알아내온 정보를 조합하여 나온 결론은 이것이었다."/></imgdir><imgdir name="5"><string name="text" value="#e메이플 월드의 봉인석은 없다.#n"/></imgdir></imgdir></imgdir><imgdir name="209"><string name="title" value="9. 다시 강림한 어둠"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="설령 봉인석이 없더라도 메이플 아일랜드의 본래 모습을 되찾기 위해 할 수 있는 일이 있을 것이다."/></imgdir><imgdir name="1"><string name="text" value="모두가 힘을 모아 메이플 아일랜드의 파괴를 조금이라도 씻어내기 위해 노력하던 도중, 마을 쪽에서 심상찮은 기운이 느껴진다."/></imgdir><imgdir name="2"><string name="text" value="언젠가 맡아본 적이 있는 어둠의 냄새, 검은 마법사의 그림자였다."/></imgdir><imgdir name="3"><string name="text" value="분명 그 힘은 검은 마법사의 일부에도 미치지 않는다."/></imgdir><imgdir name="4"><string name="text" value="하지만 그럼에도 불구하도 아무런 공격도 통하지 않는 그림자."/></imgdir><imgdir name="5"><string name="text" value="점점 힘은 빠져나가고, 이제 끝인 걸까?"/></imgdir><imgdir name="6"><string name="text" value="그렇게 생각한 순간, 모두가 내게 힘을 모아주었다. 마지막 남은 힘까지 추스려 다시 그림자의 앞에 서자, 품 속에서 신비한 빛을 뿜으며 단풍잎이 눈 앞에 떠올랐다."/></imgdir></imgdir></imgdir><imgdir name="210"><string name="title" value="10. 새로운 봉인석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="눈 앞에 떠오른 단풍잎은 신비한 보석으로 변했다."/></imgdir><imgdir name="1"><string name="text" value="그리고 나타난 여신이 새로운 힘을 부여하여, 이제까지 닿지 않던 공격이 들기 시작했다!"/></imgdir><imgdir name="2"><string name="text" value="어둠은 완전히 사라졌다."/></imgdir><imgdir name="3"><string name="text" value="여신은 자신이 언덕의 단풍나무에 깃든, 메이플 월드의 정신체라고 말한다."/></imgdir><imgdir name="4"><string name="text" value="메이플 월드의 위기를 느끼고 자신의 분신인 슈가를 보내어 죽 지켜보고 있었노라고."/></imgdir><imgdir name="5"><string name="text" value="그리고 보석으로 변한 단풍잎은 모두의 힘으로 만들어낸 &apos;메이플 아일랜드의 봉인석&apos;이라고."/></imgdir><imgdir name="6"><string name="text" value="봉인석의 힘을 사용하여 메이플 아일랜드를 원래의 모습으로 되돌릴 수 있었다."/></imgdir><imgdir name="7"><string name="text" value="기쁨과 아쉬움 속에 모두와 작별 인사를 했다."/></imgdir><imgdir name="8"><string name="text" value="하지만 이것은 하나의 이야기의 끝. 아직 시작되지 않은 다음 이야기가, 또다른 모험이 나를 기다리고 있다."/></imgdir></imgdir></imgdir><imgdir name="301"><string name="title" value="1. 새로운 모험의 시작"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="새로운 마음으로 시작하는 메이플 월드에서의 모험! 메이플 아일랜드에서 따라온 듯한 단풍잎을 하나 주웠다. 이것도 기념이니 모험의 서에 끼워두기로 했다."/></imgdir><imgdir name="1"><string name="text" value="이제부터 어떤 이야기가 시작될까?"/></imgdir></imgdir></imgdir><imgdir name="302"><string name="title" value="2. 수상한 모험가, 테스"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="헬레나의 부탁으로, 해적 전직관인 카이린을 만났다. 시원시원한 말투의 그녀는 최근에 전직한 &apos;테스&apos;라는 수상한 자에 대해 아느냐고 내게 물었지만, 낯선 사람이다."/></imgdir><imgdir name="1"><string name="text" value="그런데 카이린과 헤어진 뒤, 여섯갈래의 길에서 우연히 테스를 만난다."/></imgdir><imgdir name="2"><string name="text" value="검은 복면의 토끼와 대치 중이던 테스는 나를  &apos;카오&apos;라고 부르며 자신을 도와달라고 한다. 도와준다면 자신의 정체도 밝히겠다고."/></imgdir><imgdir name="3"><string name="text" value="복면의 토끼는 놓쳐버리고, 그와 함께 도망치려는 테스를 붙잡아 내키지 않는 듯 정체를 밝힌다."/></imgdir><imgdir name="4"><string name="text" value="자신은 카이린의 오빠 테스이며, 메이플 월드에 이제 곧 일어날 엄청난 일과 관련하여 악의 무리를 쫓고 있다고."/></imgdir><imgdir name="5"><string name="text" value="또한 자신이 직접 말할 때까지는 카이린에게도 비밀로 해달라고."/></imgdir></imgdir></imgdir><imgdir name="303"><string name="title" value="3. 도둑맞은 보석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="모험가 길드의 귀중한 보석을 복면을 쓴 수상한 자에게 도둑맞고 말았다!"/></imgdir><imgdir name="1"><string name="text" value="헬레나의 부탁으로 헤네시스 외곽까지 복면을 쓴 자를 추격한 끝에 보석을 되찾은 순간, &quot;보석을 찾아줘서 고마워요.&quot;라며 모험가 올리비아가 나타나는데?"/></imgdir><imgdir name="2"><string name="text" value="임무 도중 보석을 잃어버린 것은 자신이라며, 보석을 건내달라는 올리비아."/></imgdir><imgdir name="3"><string name="text" value="하지만 그 말을 믿고 보석을 건내주자마자, 그녀는 사라져버렸다. 아무래도 수상쩍은 것 같아, 헬레나를 찾아가보아가 들은 것은 올리비아가 보석을 훔쳐 달아났다는 청천벽력같은 소식이었다."/></imgdir><imgdir name="4"><string name="text" value="도둑맞은 보석은 &apos;봉인석&apos;이라는 신비한 힘을 가진 물건이라고…. 헬레나는 최근 그 봉인석을 노리는 자들이 있다고 말한다. 그 자들의 정체는? 그리고 봉인석의 힘이란 무엇일까?"/></imgdir></imgdir></imgdir><imgdir name="304"><string name="title" value="4. 배후는 블랙윙?"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="궁수 교육원에서 만난 테스. 그는 자신이 쫓고 있던 조직, &apos;블랙윙&apos;이 봉인석 도난 사건의 진정한 배후같다는 말을 한다."/></imgdir><imgdir name="1"><string name="text" value="그리하여 도착한 블랙윙의 본거지 에델슈타인. 하지만 안으로 들어가려면 블랙윙의 일원이라는 증거인 모자가 필요하다는데?"/></imgdir><imgdir name="2"><string name="text" value="마침 지나가는 블랙윙 소년을 구슬러 모자를 얻어내는데 성공! 그런데 소년의 말에 따르자면, 안에 들어가도 직접 블랙윙의 간부를 만나는 것은 어려울 것이라고 한다."/></imgdir><imgdir name="3"><string name="text" value="어떻게 하면 좋을까, 고민하고 있으려니 잠시 기다리라며 사라진 소년. 잠시 후 나타난 소년은 블랙윙의 간부에 대한 정보가 모인 문서를 가져왔다. &apos;지나가던 레지스탕스&apos;라는 말과 함께……."/></imgdir><imgdir name="4"><string name="text" value="레지스탕스의 문서에 적혀있는 &apos;변신술사&apos;에 대한 정보, 정말로 범인은 블랙윙인 걸까?"/></imgdir></imgdir></imgdir><imgdir name="305"><string name="title" value="5. 블랙윙의 변신술사"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="드디어 범인의 실마리가 잡혔다!"/></imgdir><imgdir name="1"><string name="text" value="엘나스 수정의 통로에 변신술사가 침입했다는 소식에 달려가보니 슈가, 테스, 론도, 그리고 올리비아가 기다리고 있었다."/></imgdir><imgdir name="2"><string name="text" value="론도가 엿들은 바에 의하면 변신술사를 비롯한 블랙윙의 조직원들은 봉인석이 무엇에 쓰이는 물건인지 모른 채 그저 위에서 시키는 대로 봉인석을 모으고 있었다."/></imgdir><imgdir name="3"><string name="text" value="슈가의 도움으로 변신술사를 급습해 물리치고, 되찾은 봉인석을 헬레나에게 돌려주었다."/></imgdir><imgdir name="4"><string name="text" value="잘 해결되기는 했지만, 의문은 너무나 많이 남아있다."/></imgdir><imgdir name="5"><string name="text" value="봉인석은 무엇일까? 봉인석을 모으는, 블랙윙의 목적은 무엇일까?"/></imgdir><imgdir name="6"><string name="text" value="...어쩌면 검은 마법사와 관계가 있는 걸까?"/></imgdir></imgdir></imgdir><imgdir name="306"><string name="title" value="6. 깨어진 봉인"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="머지 않은 검은 마법사의 부활에 대비해 태세를 정비하던 도중, 시간의 신전에서 현재의 문이 열려있는 것을 발견했다!"/></imgdir><imgdir name="1"><string name="text" value="그리고 그 끝에서 만난 검은 마법사……."/></imgdir><imgdir name="2"><string name="text" value="봉인의 부서진 부분에 새 봉인석을 끼워넣으면 검은 마법사를 막을 수 있을지도 모른다."/></imgdir><imgdir name="3"><string name="text" value="그렇게 생각하고 봉인석을 끼워넣으려는 찰나, 이제껏 단 한 번도 들은 적이 없던 사악한 목소리가 들려왔다."/></imgdir><imgdir name="4"><string name="text" value="#e&quot;어리석은 짓을 하지 말아라. 어둠에 복종해라.&quot;#n"/></imgdir><imgdir name="5"><string name="text" value="두려운 목소리. 하지만 메이플 월드의 평화를 위해서는 용기를 내야한다!  거부하고 봉인석을 끼워넣으려한 순간, 간발의 차이로 봉인은 부서져버렸다. 그리고 울려퍼지는, 어둠의 목소리."/></imgdir><imgdir name="6"><string name="text" value="#e&quot;너의 어리석음의 대가를 치를 것이다…&quot;#n"/></imgdir></imgdir></imgdir><imgdir name="307"><string name="title" value="7. 메이플 아일랜드에 닥친 재앙"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="메이플 아일랜드에 돌연 닥친 재앙. 슈가의 연락을 받고 달려간 그곳은 이전에 알던 메이플 아일랜드가 아니었다."/></imgdir><imgdir name="1"><string name="text" value="마을을 뒤덮은 혼돈 속에서, 홀로 단풍나무 언덕으로 향했다는 소녀의 뒤를 쫓자 그 곳엔 불에 탈 위험에 처한 단풍나무와 그것을 막아내기 위해 안간힘을 쓰는 슈가가 있었다."/></imgdir><imgdir name="2"><string name="text" value="갈림길에서 떠간 샘물로 가까스로 불을 끈 뒤, 슈가의 상처를 깨달았지만, 다시 떠다준 물도 그녀는 단풍나무에 쏟아버렸다. &quot;난 괜찮아.&quot; 라면서."/></imgdir><imgdir name="3"><string name="text" value="뒤늦게 도착한 이들과 함께 메이플 아일랜드가 원래 모습을 되찾을 방법을 고민하던 중 문득 봉인석의 힘에 생각이 닿았다. 하지만 그 사용방법은 우리 중에 아무도 알지 못한다."/></imgdir><imgdir name="4"><string name="text" value="그렇다면 방법은 한 가지, 봉인석을 만든 자들, &apos;영웅&apos;을 직접 찾아가는 것 뿐이다!"/></imgdir></imgdir></imgdir><imgdir name="308"><string name="title" value="8. 궁수의 영웅, 메르세데스"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="메르세데스를 찾아 도착한 에우렐. 아름다운 마을은 저주의 영향으로 얼어붙어 있었다."/></imgdir><imgdir name="1"><string name="text" value="메르세데스를 기다리며 만난 엘프의 어린 아이 뮤네는 모험에 동경을 품고 있지만 과거 나쁜 사람들을 만났던 두려움을 떨칠 수 없다고 했다. 뮤네에게 용기를 줄 수 있도록 오르골로 음악을 연주하자, 울려퍼지는 음악 속에서 엘프의 여왕이 귀환했다."/></imgdir><imgdir name="2"><string name="text" value="하지만 수백년 전 영웅들이 대륙의 봉인석을 만들 당시 메이플 아일랜드는 존재조차 하지 않았다고 한다. 어떤 상황에서도 희망을 잃지 말라고 당부하는 메르세데스와 헤어져 메이플 아일랜드로 돌아왔다."/></imgdir><imgdir name="3"><string name="text" value="결국, 모두가 알아내온 정보를 조합하여 나온 결론은 이것이었다."/></imgdir><imgdir name="4"><string name="text" value="#e메이플 월드의 봉인석은 없다.#n"/></imgdir></imgdir></imgdir><imgdir name="309"><string name="title" value="9. 다시 강림한 어둠"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="설령 봉인석이 없더라도 메이플 아일랜드의 본래 모습을 되찾기 위해 할 수 있는 일이 있을 것이다."/></imgdir><imgdir name="1"><string name="text" value="모두가 힘을 모아 메이플 아일랜드의 파괴를 조금이라도 씻어내기 위해 노력하던 도중, 마을 쪽에서 심상찮은 기운이 느껴진다."/></imgdir><imgdir name="2"><string name="text" value="언젠가 맡아본 적이 있는 어둠의 냄새, 검은 마법사의 그림자였다."/></imgdir><imgdir name="3"><string name="text" value="분명 그 힘은 검은 마법사의 일부에도 미치지 않는다."/></imgdir><imgdir name="4"><string name="text" value="하지만 그럼에도 불구하도 아무런 공격도 통하지 않는 그림자."/></imgdir><imgdir name="5"><string name="text" value="점점 힘은 빠져나가고, 이제 끝인 걸까?"/></imgdir><imgdir name="6"><string name="text" value="그렇게 생각한 순간, 모두가 내게 힘을 모아주었다. 마지막 남은 힘까지 추스려 다시 그림자의 앞에 서자, 품 속에서 신비한 빛을 뿜으며 단풍잎이 눈 앞에 떠올랐다."/></imgdir></imgdir></imgdir><imgdir name="310"><string name="title" value="10. 새로운 봉인석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="눈 앞에 떠오른 단풍잎은 신비한 보석으로 변했다."/></imgdir><imgdir name="1"><string name="text" value="그리고 나타난 여신이 새로운 힘을 부여하여, 이제까지 닿지 않던 공격이 들기 시작했다!"/></imgdir><imgdir name="2"><string name="text" value="어둠은 완전히 사라졌다."/></imgdir><imgdir name="3"><string name="text" value="여신은 자신이 언덕의 단풍나무에 깃든, 메이플 월드의 정신체라고 말한다."/></imgdir><imgdir name="4"><string name="text" value="메이플 월드의 위기를 느끼고 자신의 분신인 슈가를 보내어 죽 지켜보고 있었노라고."/></imgdir><imgdir name="5"><string name="text" value="그리고 보석으로 변한 단풍잎은 모두의 힘으로 만들어낸 &apos;메이플 아일랜드의 봉인석&apos;이라고."/></imgdir><imgdir name="6"><string name="text" value="봉인석의 힘을 사용하여 메이플 아일랜드를 원래의 모습으로 되돌릴 수 있었다."/></imgdir><imgdir name="7"><string name="text" value="기쁨과 아쉬움 속에 모두와 작별 인사를 했다."/></imgdir><imgdir name="8"><string name="text" value="하지만 이것은 하나의 이야기의 끝. 아직 시작되지 않은 다음 이야기가, 또다른 모험이 나를 기다리고 있다."/></imgdir></imgdir></imgdir><imgdir name="401"><string name="title" value="1. 새로운 모험의 시작"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="새로운 마음으로 시작하는 메이플 월드에서의 모험! 메이플 아일랜드에서 따라온 듯한 단풍잎을 하나 주웠다. 이것도 기념이니 모험의 서에 끼워두기로 했다."/></imgdir><imgdir name="1"><string name="text" value="이제부터 어떤 이야기가 시작될까?"/></imgdir></imgdir></imgdir><imgdir name="402"><string name="title" value="2. 올리비아의 부탁"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="보물에 관심이 많다는 올리비아는 메이플 월드 이곳저곳에 흩어져있는 어떤 특별한 보석의 이야기를 하며, 그 중에서 최근에 발견된 보석이 현재 도적 길드에서 비밀리에 보관되고 있다고 한다."/></imgdir><imgdir name="1"><string name="text" value="그 보석을 직접 보고 와달라는 올리비아. 어쩐지 미심쩍은 기분을 느끼며 들어간 비밀의 방에서 검은 복면을 쓴 수상한 이와 마주쳤다."/></imgdir><imgdir name="2"><string name="text" value="보석을 훔쳐가려는 수상한 이를 물리치고 이 사실을 올리비아에게 말하자, 올리비아는 이제껏 자신이 보석이 발견되었다는 이야기를 듣고 찾아가보면 이미 누군가에게 도둑맞은 뒤였다고 말한다."/></imgdir><imgdir name="3"><string name="text" value="내가 물리친 자가 바로 이제껏 보석을 훔쳐간 조직의 일원일지도 모른다며, 올리비아는 도적 아지트까지 잠입하다니 분명 보통 녀석들이 아닐 것이라고 말한다."/></imgdir></imgdir></imgdir><imgdir name="403"><string name="title" value="3. 도둑맞은 보석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="모험가 길드의 귀중한 보석을 복면을 쓴 수상한 자에게 도둑맞고 말았다!"/></imgdir><imgdir name="1"><string name="text" value="헤네시스 외곽까지 복면을 쓴 자를 추격해 전투 끝에 보석을 되찾은  순간, &quot;보석을 찾아줘서 고마워요.&quot;라며 모험가 올리비아가 나타나는데?"/></imgdir><imgdir name="2"><string name="text" value="하지만 나를 마치 처음 보는 듯이 대하는 올리비아의 모습에서는 왠지 모를 위화감이 느껴진다. 그 점을 지적하자 올리비아, 아니 올리비아였던 누군가는 본 모습을 드러내고는 봉인석을 빼앗아 달아나버렸다!"/></imgdir><imgdir name="3"><string name="text" value="헬레나의 말에 따르자면 도둑맞은 보석은 보통의 보석이 아닌, &apos;봉인석&apos;이라는 신비한 힘을 가진 물건이었다는데……. 게다가 최근 그 봉인석을 노리는 자들이 있는 것 같다. 그 자들의 정체는? 그리고 봉인석의 힘이란 무엇일까?"/></imgdir></imgdir></imgdir><imgdir name="404"><string name="title" value="4. 도적 길드의 명예"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="봉인석을 빼앗아간 자가 아무래도 블랙윙의  &apos;변신술사&apos;같다는 다크로드."/></imgdir><imgdir name="1"><string name="text" value="잃어버린 명예를 회복하기 위해서는 사건의 실체를 밝혀내고 봉인석을 되찾아야만 한다!"/></imgdir><imgdir name="2"><string name="text" value="다크로드의 부탁에 따라 에레브의 시그너스 기사단, 그리고 에델슈타인의 레지스탕스를 찾아가 정보를 얻었다."/></imgdir><imgdir name="3"><string name="text" value="기사단의 냉정한 책사 나인하트도, 진짜 모습을 감추고 이중생활을 하는 레지스탕스의 지그문트도 사건을 해결하는데 협력을 아끼지 않는다."/></imgdir><imgdir name="4"><string name="text" value="그리고 점점 드러나는 사건의 숨겨진 목적은, 모험가들이 서로를 믿지 못하고 분열하게 하는 것을 노리는 듯 한데……. 정말로 범인은 변신술사? 그리고 그 배후에 블랙윙이 있는 것일까?"/></imgdir></imgdir></imgdir><imgdir name="405"><string name="title" value="5. 블랙윙의 변신술사"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="드디어 범인의 실마리가 잡혔다!"/></imgdir><imgdir name="1"><string name="text" value="엘나스 수정의 통로에 변신술사가 침입했다는 소식에 달려가보니 슈가, 테스, 론도, 그리고 올리비아가 기다리고 있었다."/></imgdir><imgdir name="2"><string name="text" value="론도가 엿들은 바에 의하면 변신술사를 비롯한 블랙윙의 조직원들은 봉인석이 무엇에 쓰이는 물건인지 모른 채 그저 위에서 시키는 대로 봉인석을 모으고 있었다."/></imgdir><imgdir name="3"><string name="text" value="슈가의 도움으로 변신술사를 급습해 물리치고, 되찾은 봉인석을 헬레나에게 돌려주었다."/></imgdir><imgdir name="4"><string name="text" value="잘 해결되기는 했지만, 의문은 너무나 많이 남아있다."/></imgdir><imgdir name="5"><string name="text" value="봉인석은 무엇일까? 봉인석을 모으는, 블랙윙의 목적은 무엇일까?"/></imgdir><imgdir name="6"><string name="text" value="...어쩌면 검은 마법사와 관계가 있는 걸까?"/></imgdir></imgdir></imgdir><imgdir name="406"><string name="title" value="6. 깨어진 봉인"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="머지 않은 검은 마법사의 부활에 대비해 태세를 정비하던 도중, 시간의 신전에서 현재의 문이 열려있는 것을 발견했다!"/></imgdir><imgdir name="1"><string name="text" value="그리고 그 끝에서 만난 검은 마법사……."/></imgdir><imgdir name="2"><string name="text" value="봉인의 부서진 부분에 새 봉인석을 끼워넣으면 검은 마법사를 막을 수 있을지도 모른다."/></imgdir><imgdir name="3"><string name="text" value="그렇게 생각하고 봉인석을 끼워넣으려는 찰나, 이제껏 단 한 번도 들은 적이 없던 사악한 목소리가 들려왔다."/></imgdir><imgdir name="4"><string name="text" value="#e&quot;어리석은 짓을 하지 말아라. 어둠에 복종해라.&quot;#n"/></imgdir><imgdir name="5"><string name="text" value="두려운 목소리. 하지만 메이플 월드의 평화를 위해서는 용기를 내야한다!  거부하고 봉인석을 끼워넣으려한 순간, 간발의 차이로 봉인은 부서져버렸다. 그리고 울려퍼지는, 어둠의 목소리."/></imgdir><imgdir name="6"><string name="text" value="#e&quot;너의 어리석음의 대가를 치를 것이다…&quot;#n"/></imgdir></imgdir></imgdir><imgdir name="407"><string name="title" value="7. 메이플 아일랜드에 닥친 재앙"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="메이플 아일랜드에 돌연 닥친 재앙. 슈가의 연락을 받고 달려간 그곳은 이전에 알던 메이플 아일랜드가 아니었다."/></imgdir><imgdir name="1"><string name="text" value="마을을 뒤덮은 혼돈 속에서, 홀로 단풍나무 언덕으로 향했다는 소녀의 뒤를 쫓자 그 곳엔 불에 탈 위험에 처한 단풍나무와 그것을 막아내기 위해 안간힘을 쓰는 슈가가 있었다."/></imgdir><imgdir name="2"><string name="text" value="갈림길에서 떠간 샘물로 가까스로 불을 끈 뒤, 슈가의 상처를 깨달았지만, 다시 떠다준 물도 그녀는 단풍나무에 쏟아버렸다. &quot;난 괜찮아.&quot; 라면서."/></imgdir><imgdir name="3"><string name="text" value="뒤늦게 도착한 이들과 함께 메이플 아일랜드가 원래 모습을 되찾을 방법을 고민하던 중 문득 봉인석의 힘에 생각이 닿았다. 하지만 그 사용방법은 우리 중에 아무도 알지 못한다."/></imgdir><imgdir name="4"><string name="text" value="그렇다면 방법은 한 가지, 봉인석을 만든 자들, &apos;영웅&apos;을 직접 찾아가는 것 뿐이다!"/></imgdir></imgdir></imgdir><imgdir name="408"><string name="title" value="8. 도적의 영웅, 팬텀"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="일찍이 팬텀을 만나본 적이 있던 시그너스 여제의 조언대로 커다랗게 메시지를 써 팬텀의 비행선을 불러내기로 했다."/></imgdir><imgdir name="1"><string name="text" value="기다리다 지쳐 메시지를 고쳐적고 있는 순간, 드디어 나타난 괴도 팬텀!"/></imgdir><imgdir name="2"><string name="text" value="상황을 설명하자, 팬텀은 검은 마법사에 대적하려는 이유가 복수 때문인지 정의 때문인지를 묻는다. 그리고 내게 그럴 만한 힘이 있는지 시험해 보겠다며 스킬을 훔쳐가는데?"/></imgdir><imgdir name="3"><string name="text" value="이대로 팬텀과 싸우게 되나 싶었지만, 아무래도 장난이었던 듯, 팬텀은 봉인석에 대해 가르쳐주었다. 봉인석보다도 스스로의 힘으로 메이플 아일랜드를 구하는 것이 좋을 것이라 충고와 함께."/></imgdir><imgdir name="4"><string name="text" value="결국, 모두가 알아내온 정보를 조합하여 나온 결론은 이것이었다."/></imgdir><imgdir name="5"><string name="text" value="#e메이플 월드의 봉인석은 없다.#n"/></imgdir></imgdir></imgdir><imgdir name="409"><string name="title" value="9. 다시 강림한 어둠"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="설령 봉인석이 없더라도 메이플 아일랜드의 본래 모습을 되찾기 위해 할 수 있는 일이 있을 것이다."/></imgdir><imgdir name="1"><string name="text" value="모두가 힘을 모아 메이플 아일랜드의 파괴를 조금이라도 씻어내기 위해 노력하던 도중, 마을 쪽에서 심상찮은 기운이 느껴진다."/></imgdir><imgdir name="2"><string name="text" value="언젠가 맡아본 적이 있는 어둠의 냄새, 검은 마법사의 그림자였다."/></imgdir><imgdir name="3"><string name="text" value="분명 그 힘은 검은 마법사의 일부에도 미치지 않는다."/></imgdir><imgdir name="4"><string name="text" value="하지만 그럼에도 불구하도 아무런 공격도 통하지 않는 그림자."/></imgdir><imgdir name="5"><string name="text" value="점점 힘은 빠져나가고, 이제 끝인 걸까?"/></imgdir><imgdir name="6"><string name="text" value="그렇게 생각한 순간, 모두가 내게 힘을 모아주었다. 마지막 남은 힘까지 추스려 다시 그림자의 앞에 서자, 품 속에서 신비한 빛을 뿜으며 단풍잎이 눈 앞에 떠올랐다."/></imgdir></imgdir></imgdir><imgdir name="410"><string name="title" value="10. 새로운 봉인석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="눈 앞에 떠오른 단풍잎은 신비한 보석으로 변했다."/></imgdir><imgdir name="1"><string name="text" value="그리고 나타난 여신이 새로운 힘을 부여하여, 이제까지 닿지 않던 공격이 들기 시작했다!"/></imgdir><imgdir name="2"><string name="text" value="어둠은 완전히 사라졌다."/></imgdir><imgdir name="3"><string name="text" value="여신은 자신이 언덕의 단풍나무에 깃든, 메이플 월드의 정신체라고 말한다."/></imgdir><imgdir name="4"><string name="text" value="메이플 월드의 위기를 느끼고 자신의 분신인 슈가를 보내어 죽 지켜보고 있었노라고."/></imgdir><imgdir name="5"><string name="text" value="그리고 보석으로 변한 단풍잎은 모두의 힘으로 만들어낸 &apos;메이플 아일랜드의 봉인석&apos;이라고."/></imgdir><imgdir name="6"><string name="text" value="봉인석의 힘을 사용하여 메이플 아일랜드를 원래의 모습으로 되돌릴 수 있었다."/></imgdir><imgdir name="7"><string name="text" value="기쁨과 아쉬움 속에 모두와 작별 인사를 했다."/></imgdir><imgdir name="8"><string name="text" value="하지만 이것은 하나의 이야기의 끝. 아직 시작되지 않은 다음 이야기가, 또다른 모험이 나를 기다리고 있다."/></imgdir></imgdir></imgdir><imgdir name="501"><string name="title" value="1. 새로운 모험의 시작"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="새로운 마음으로 시작하는 메이플 월드에서의 모험! 메이플 아일랜드에서 따라온 듯한 단풍잎을 하나 주웠다. 이것도 기념이니 모험의 서에 끼워두기로 했다."/></imgdir><imgdir name="1"><string name="text" value="이제부터 어떤 이야기가 시작될까?"/></imgdir></imgdir></imgdir><imgdir name="502"><string name="title" value="2. 수상한 모험가, 테스"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="카이린의 부탁으로, 궁수 전직관인 헬레나를 만났다. 전직관이자 엘프인 그녀는 최근에 전직한 &apos;테스&apos;라는 수상한 자에 대해 아느냐고 내게 물었지만, 낯선 사람이다."/></imgdir><imgdir name="1"><string name="text" value="그런데 헬레나와 헤어진 뒤, 여섯갈래의 길에서 우연히 테스를 만난다."/></imgdir><imgdir name="2"><string name="text" value="검은 복면의 토끼와 대치 중이던 테스는 나를 &apos;카오&apos;라고 부르며 자신을 도와달라고 한다. 도와준다면 자신의 정체도 밝히겠다고."/></imgdir><imgdir name="3"><string name="text" value="복면의 토끼는 놓쳐버리고, 그와 함께 도망치려는 테스를 붙잡아 내키지 않는 듯 정체를 밝힌다."/></imgdir><imgdir name="4"><string name="text" value="자신은 메이플 월드에 이제 곧 일어날 엄청난 일과 관련하여 악의 무리를 쫓고 있다고."/></imgdir><imgdir name="5"><string name="text" value="또한 자신이 직접 말할 때까지는 헬레나에게도 비밀로 해달라고."/></imgdir></imgdir></imgdir><imgdir name="503"><string name="title" value="3. 도둑맞은 보석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="모험가 길드의 귀중한 보석을 복면을 쓴 수상한 자에게 도둑맞고 말았다!"/></imgdir><imgdir name="1"><string name="text" value="헬레나의 부탁으로 헤네시스 외곽까지 복면을 쓴 자를 추격한 끝에 보석을 되찾은 순간, &quot;보석을 찾아줘서 고마워요.&quot;라며 모험가 올리비아가 나타나는데?"/></imgdir><imgdir name="2"><string name="text" value="임무 도중 보석을 잃어버린 것은 자신이라며, 보석을 건내달라는 올리비아."/></imgdir><imgdir name="3"><string name="text" value="하지만 그 말을 믿고 보석을 건내주자마자, 그녀는 사라져버렸다. 아무래도 수상쩍은 것 같아, 헬레나를 찾아가보아가 들은 것은 올리비아가 보석을 훔쳐 달아났다는 청천벽력같은 소식이었다."/></imgdir><imgdir name="4"><string name="text" value="도둑맞은 보석은 &apos;봉인석&apos;이라는 신비한 힘을 가진 물건이라고…. 헬레나는 최근 그 봉인석을 노리는 자들이 있다고 말한다. 그 자들의 정체는? 그리고 봉인석의 힘이란 무엇일까?"/></imgdir></imgdir></imgdir><imgdir name="504"><string name="title" value="4. 배후는 블랙윙?"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="궁수 교육원에서 만난 테스. 그는 자신이 쫓고 있던 조직, &apos;블랙윙&apos;이 봉인석 도난 사건의 진정한 배후같다는 말을 한다."/></imgdir><imgdir name="1"><string name="text" value="그리하여 도착한 블랙윙의 본거지 에델슈타인. 하지만 안으로 들어가려면 블랙윙의 일원이라는 증거인 모자가 필요하다는데?"/></imgdir><imgdir name="2"><string name="text" value="마침 지나가는 블랙윙 소년을 구슬러 모자를 얻어내는데 성공! 그런데 소년의 말에 따르자면, 안에 들어가도 직접 블랙윙의 간부를 만나는 것은 어려울 것이라고 한다."/></imgdir><imgdir name="3"><string name="text" value="어떻게 하면 좋을까, 고민하고 있으려니 잠시 기다리라며 사라진 소년. 잠시 후 나타난 소년은 블랙윙의 간부에 대한 정보가 모인 문서를 가져왔다. &apos;지나가던 레지스탕스&apos;라는 말과 함께……."/></imgdir><imgdir name="4"><string name="text" value="레지스탕스의 문서에 적혀있는 &apos;변신술사&apos;에 대한 정보, 정말로 범인은 블랙윙인 걸까?"/></imgdir></imgdir></imgdir><imgdir name="505"><string name="title" value="5. 블랙윙의 변신술사"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="드디어 범인의 실마리가 잡혔다!"/></imgdir><imgdir name="1"><string name="text" value="엘나스 수정의 통로에 변신술사가 침입했다는 소식에 달려가보니 슈가, 테스, 론도, 그리고 올리비아가 기다리고 있었다."/></imgdir><imgdir name="2"><string name="text" value="론도가 엿들은 바에 의하면 변신술사를 비롯한 블랙윙의 조직원들은 봉인석이 무엇에 쓰이는 물건인지 모른 채 그저 위에서 시키는 대로 봉인석을 모으고 있었다."/></imgdir><imgdir name="3"><string name="text" value="슈가의 도움으로 변신술사를 급습해 물리치고, 되찾은 봉인석을 헬레나에게 돌려주었다."/></imgdir><imgdir name="4"><string name="text" value="잘 해결되기는 했지만, 의문은 너무나 많이 남아있다."/></imgdir><imgdir name="5"><string name="text" value="봉인석은 무엇일까? 봉인석을 모으는, 블랙윙의 목적은 무엇일까?"/></imgdir><imgdir name="6"><string name="text" value="...어쩌면 검은 마법사와 관계가 있는 걸까?"/></imgdir></imgdir></imgdir><imgdir name="506"><string name="title" value="6. 깨어진 봉인"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="머지 않은 검은 마법사의 부활에 대비해 태세를 정비하던 도중, 시간의 신전에서 현재의 문이 열려있는 것을 발견했다!"/></imgdir><imgdir name="1"><string name="text" value="그리고 그 끝에서 만난 검은 마법사……."/></imgdir><imgdir name="2"><string name="text" value="봉인의 부서진 부분에 새 봉인석을 끼워넣으면 검은 마법사를 막을 수 있을지도 모른다."/></imgdir><imgdir name="3"><string name="text" value="그렇게 생각하고 봉인석을 끼워넣으려는 찰나, 이제껏 단 한 번도 들은 적이 없던 사악한 목소리가 들려왔다."/></imgdir><imgdir name="4"><string name="text" value="#e&quot;어리석은 짓을 하지 말아라. 어둠에 복종해라.&quot;#n"/></imgdir><imgdir name="5"><string name="text" value="두려운 목소리. 하지만 메이플 월드의 평화를 위해서는 용기를 내야한다!  거부하고 봉인석을 끼워넣으려한 순간, 간발의 차이로 봉인은 부서져버렸다. 그리고 울려퍼지는, 어둠의 목소리."/></imgdir><imgdir name="6"><string name="text" value="#e&quot;너의 어리석음의 대가를 치를 것이다…&quot;#n"/></imgdir></imgdir></imgdir><imgdir name="507"><string name="title" value="7. 메이플 아일랜드에 닥친 재앙"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="메이플 아일랜드에 돌연 닥친 재앙. 슈가의 연락을 받고 달려간 그곳은 이전에 알던 메이플 아일랜드가 아니었다."/></imgdir><imgdir name="1"><string name="text" value="마을을 뒤덮은 혼돈 속에서, 홀로 단풍나무 언덕으로 향했다는 소녀의 뒤를 쫓자 그 곳엔 불에 탈 위험에 처한 단풍나무와 그것을 막아내기 위해 안간힘을 쓰는 슈가가 있었다."/></imgdir><imgdir name="2"><string name="text" value="갈림길에서 떠간 샘물로 가까스로 불을 끈 뒤, 슈가의 상처를 깨달았지만, 다시 떠다준 물도 그녀는 단풍나무에 쏟아버렸다. &quot;난 괜찮아.&quot; 라면서."/></imgdir><imgdir name="3"><string name="text" value="뒤늦게 도착한 이들과 함께 메이플 아일랜드가 원래 모습을 되찾을 방법을 고민하던 중 문득 봉인석의 힘에 생각이 닿았다. 하지만 그 사용방법은 우리 중에 아무도 알지 못한다."/></imgdir><imgdir name="4"><string name="text" value="그렇다면 방법은 한 가지, 봉인석을 만든 자들, &apos;영웅&apos;을 직접 찾아가는 것 뿐이다!"/></imgdir></imgdir></imgdir><imgdir name="508"><string name="title" value="8. 마지막 영웅, 루미너스"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="루미너스의 행방을 찾아 결계가 쳐져있다는 엘리니아 숲의 경계에 도착했다."/></imgdir><imgdir name="1"><string name="text" value="어쩐지 같은 곳을 계속 돌고 있는 듯한 기분에 혼란스러워하고 있는데, 숲과는 전혀 어울리지 않는 로봇이 눈에 들어온다."/></imgdir><imgdir name="2"><string name="text" value="무작정 나를 침입자라며 체포하겠다는 로봇을 물리치자, 빛의 마법사 루미너스가 나타났다."/></imgdir><imgdir name="3"><string name="text" value="봉인석이 본래의 목적과 달리 검은 마법사를 봉인하는데 사용되었다는 루미너스. 하지만 검은 마법사에게 같은 봉인을 두 번 걸 수는 없을 것이라고 말한다."/></imgdir><imgdir name="4"><string name="text" value="루미너스와 헤어져 돌아온 메이플 아일랜드."/></imgdir><imgdir name="5"><string name="text" value="결국, 모두가 알아내온 정보를 조합하여 나온 결론은 이것이었다."/></imgdir><imgdir name="6"><string name="text" value="#e메이플 월드의 봉인석은 없다.#n"/></imgdir></imgdir></imgdir><imgdir name="509"><string name="title" value="9. 다시 강림한 어둠"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="설령 봉인석이 없더라도 메이플 아일랜드의 본래 모습을 되찾기 위해 할 수 있는 일이 있을 것이다."/></imgdir><imgdir name="1"><string name="text" value="모두가 힘을 모아 메이플 아일랜드의 파괴를 조금이라도 씻어내기 위해 노력하던 도중, 마을 쪽에서 심상찮은 기운이 느껴진다."/></imgdir><imgdir name="2"><string name="text" value="언젠가 맡아본 적이 있는 어둠의 냄새, 검은 마법사의 그림자였다."/></imgdir><imgdir name="3"><string name="text" value="분명 그 힘은 검은 마법사의 일부에도 미치지 않는다."/></imgdir><imgdir name="4"><string name="text" value="하지만 그럼에도 불구하도 아무런 공격도 통하지 않는 그림자."/></imgdir><imgdir name="5"><string name="text" value="점점 힘은 빠져나가고, 이제 끝인 걸까?"/></imgdir><imgdir name="6"><string name="text" value="그렇게 생각한 순간, 모두가 내게 힘을 모아주었다. 마지막 남은 힘까지 추스려 다시 그림자의 앞에 서자, 품 속에서 신비한 빛을 뿜으며 단풍잎이 눈 앞에 떠올랐다."/></imgdir></imgdir></imgdir><imgdir name="510"><string name="title" value="10. 새로운 봉인석"/><int name="align" value="1"/><imgdir name="0"><imgdir name="0"><string name="text" value="눈 앞에 떠오른 단풍잎은 신비한 보석으로 변했다."/></imgdir><imgdir name="1"><string name="text" value="그리고 나타난 여신이 새로운 힘을 부여하여, 이제까지 닿지 않던 공격이 들기 시작했다!"/></imgdir><imgdir name="2"><string name="text" value="어둠은 완전히 사라졌다."/></imgdir><imgdir name="3"><string name="text" value="여신은 자신이 언덕의 단풍나무에 깃든, 메이플 월드의 정신체라고 말한다."/></imgdir><imgdir name="4"><string name="text" value="메이플 월드의 위기를 느끼고 자신의 분신인 슈가를 보내어 죽 지켜보고 있었노라고."/></imgdir><imgdir name="5"><string name="text" value="그리고 보석으로 변한 단풍잎은 모두의 힘으로 만들어낸 &apos;메이플 아일랜드의 봉인석&apos;이라고."/></imgdir><imgdir name="6"><string name="text" value="봉인석의 힘을 사용하여 메이플 아일랜드를 원래의 모습으로 되돌릴 수 있었다."/></imgdir><imgdir name="7"><string name="text" value="기쁨과 아쉬움 속에 모두와 작별 인사를 했다."/></imgdir><imgdir name="8"><string name="text" value="하지만 이것은 하나의 이야기의 끝. 아직 시작되지 않은 다음 이야기가, 또다른 모험이 나를 기다리고 있다."/></imgdir></imgdir></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="AdventureLogbook.img">
+<imgdir name="text">
+<imgdir name="101">
+<string name="title" value="1. The Start of Adventure"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="It began with a tree, a maple tree. As you left its comforting embrace, you sensed that an adventure beyond your wildest dreams loomed ahead. A Maple Leaf brushed your shoes, and you tucked it into your Explorer Book as a reminder of your origins."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="And so, your adventure began."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="102">
+<string name="title" value="2. A Very Un-Explorer-like Girl"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="While exploring Victoria Island, you bumped into a girl named Sugar."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="She was headed for Ellinia to take her Job Advancement test, but her fear of bugs got in her way."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You took care of the bugs with ease, but Sugar had a new problem: she said the tree was crying out in pain. And so, you brought medicine for the tree."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="You couldn&apos;t help but wonder. Sugar was scared of bugs and could hear trees. Was she really suited to be an Explorer?"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Sugar admitted to sharing your doubts, but she said she had no choice but to keep moving forward, for she had to stop the disaster that was headed toward Maple World..."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="103">
+<string name="title" value="3. The Stolen Jewel"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Olive said she was the one who was supposed to deliver the jewel to Athena Pierce in the first place and that she wanted to finish her delivery."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Olive laughed when you handed her the jewel, which gave you a bad feeling. So you were hardly surprised when Athena Pierce told you that Olive never showed up."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Athena Pierce also revealed that the jewel was actually a Seal Stone, an artifact of immense but mysterious powers. Who stole the Seal Stone? What evil plans were they hatching upon Maple World? And none of this was your fault, was it?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="104">
+<string name="title" value="4. The Real Culprit"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You traveled to Ereve in search of Olive and the Seal Stone."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="When you confronted her, Olive adamantly denied having anything to do with the Seal Stone. She blamed someone called the &apos;Master of Disguise.&apos;"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You thought maybe she was telling the truth, but before you could decide, someone from the Thieves Guild arrived and snatched Olive away."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As she was being dragged off, Olive begged you to talk to Neinheart in Ereve to find proof of her innocence."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Neinheart confirmed that the &apos;Master of Disguise&apos; did in fact exist and that his disguises were flawless."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="But now you wondered, who in Maple World was this so-called Master of Disguise?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="105">
+<string name="title" value="5. The Master of Disguise"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="With your latest lead, you finally felt like you were putting together the pieces to the puzzle."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Sugar, Tess, Rondo, and Olive met you at the El Nath Crystal Passageway to pursue the Master of Disguise."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="While there, Rondo overheard some Black Wings saying that their leaders were collecting Seal Stones, though they weren&apos;t sure why."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="With Sugar&apos;s help, you managed to defeat the Master of Disguise! You returned the Seal Stone to Athena Pierce, in person this time."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Everything worked out in the end, but the questions lingered."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="What were the Seal Stones? What was the Black Wings&apos; ultimate goal?"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="And most importantly of all, was the Black Mage directly involved in all of this?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="106">
+<string name="title" value="6. The Broken Seal"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You checked on various towns to make sure Maple World was prepared for the Black Mage&apos;s potential return, and in the process, discovered that the Gate of the Present was open."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You ventured through the gate, and at the end of a long corridor... you encountered the Black Mage himself. Upon further investigation, you discovered that one of his seals had broken."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Using the Seal Stone Athena Pierce had in her possession to replace the broken seal might stop the Black Mage from breaking free, or so you hoped."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="But as you were installing the Seal Stone, an unfamiliar voice spoke, sending chills tingling down your spine."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="#e&apos;Do not be a fool. Give in to the darkness.&apos;#n"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="You continued your mission, despite your fears, but just as you were screwing in the final bolt, the seal broke. A dark voice reverberated, then grew faint."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="#e&apos;You will pay for your foolishness...&apos;#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="107">
+<string name="title" value="7. Maple Island Disaster"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Before you could recover from your shock, Sugar contacted you, begging you to return to Maple Island. When you stepped off the ferry, you saw your beloved island was in flames."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Amidst the chaos, you learned that Sugar had fled. You headed toward Maple Tree Hill and found her battling a fire."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It wasn&apos;t until after you put out the fire that you saw that Sugar was hurt. When you brought her water to cool her wounds, she poured it onto the tree and said that all was now well."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As you and your friends mourned the island together, you suddenly realized... Perhaps you could use the Seal Stones to restore Maple Island! But you needed more information on how the stones worked."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="There was only one thing left to do. You had to visit the Heroes who created the stones and tap them for knowledge."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="108">
+<string name="title" value="8. Aran, the Warrior Hero"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You were assigned to speak to Aran, so you visited Rien Island, where Lilin peppered you with questions, testing your intentions."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="In the midst of Lilin&apos;s quizzes, Aran appeared. But he had amnesia and could remember nothing of use."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="He showed you a Seal Stone, and together, you pieced together that each continent had its own stone, specific to it. Unfortunately, many of those stones were in the hands of the Black Wings."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Aran promised he&apos;d be around if you ever needed him, and you returned to Maple Island."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="When the others reconvened, you put together this knowledge:"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="#eMaple Island had no Seal Stone.#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="109">
+<string name="title" value="9. The Darkness Returns"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Even without a Seal Stone, you knew you couldn&apos;t give up on Maple Island."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="As you and the others rebuilt Maple Island, brick by  brick, a darkness crept back toward the island."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It was as dark as night, but you recognized it... the Black Mage&apos;s Shadow."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="His shadow held but a fraction of the Black Mage&apos;s true powers..."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="...yet not even your most powerful strikes could maim it."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="The others grew weary, as you fought futilely. The end was nigh."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Your friends poured the last of their strength into you. You knew it wouldn&apos;t be enough, but you were determined to try. Suddenly, a mystic glow poured out of you and a Maple Leaf floated before your eyes."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="110">
+<string name="title" value="10. The New Seal Stone"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Fascinated, you watched as the Maple Leaf transformed into a jewel."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Suddenly, power filled your veins and your attacks began to have an effect. It was the blessing of a Goddess."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You gave it everything you had, and in the end, you vanquished the darkness."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="The Goddess revealed she was spirit of Maple Island, who dwelled in the Maple Tree."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="She sensed that the world was in danger, and sent her other self, Sugar, to keep watch."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="She said the Maple Leaf had become the Seal Stone of Maple Island, formed out of your friends&apos; desire to save the island."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Using its power, you restored Maple Island to its original form."/>
+</imgdir>
+<imgdir name="7">
+<string name="text" value="Then, you hugged your friends goodbye."/>
+</imgdir>
+<imgdir name="8">
+<string name="text" value="And so this story drew to a close, but others had yet to begin. More adventures awaited those with the will to search for them."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="201">
+<string name="title" value="1. The Start of Adventure"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="It began with a tree, a maple tree. As you left its comforting embrace, you sensed that an adventure beyond your wildest dreams loomed ahead. A Maple Leaf brushed your shoes, and you tucked it into your Explorer Book as a reminder of your origins."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="And so, your adventure began."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="202">
+<string name="title" value="2. The Better To Hear You With"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="While exploring the Six Path Crossway, you bumped into a stranger."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="He ignored you, so you playfully snatched away his hat... only to discover he sported a pair of unusually large ears."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="He grumpily revealed that his name was Rondo and that he was searching Maple World for others like himself."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="You accompanied him to Grandis, where you learned about the Anima tribe."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="But you couldn&apos;t get to the Anima village, since Grandis was at war."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="You traveled as far as the border, but a barrier prevented you from proceeding."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Rondo vowed to return someday to find out if the Anima tribe were really his people."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="203">
+<string name="title" value="3. The Stolen Jewel"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Olive said she was the one who was supposed to deliver the jewel to Athena Pierce in the first place and that she wanted to finish her delivery."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Olive laughed when you handed her the jewel, which gave you a bad feeling. So you were hardly surprised when Athena Pierce told you that Olive never showed up."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Athena Pierce also revealed that the jewel was actually a Seal Stone, an artifact of immense but mysterious powers. Who stole the Seal Stone? What evil plans were they hatching upon Maple World? And none of this was your fault, was it?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="204">
+<string name="title" value="4. The Real Culprit"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You traveled to Ereve in search of Olive and the Seal Stone."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="When you confronted her, Olive adamantly denied having anything to do with the Seal Stone. She blamed someone called the &apos;Master of Disguise.&apos;"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You wondered if she was actually telling the truth, but before you could decide, Rondo arrived and tried to snatch her away on behalf of the Thieves Guild."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="He refused to believe she was innocent, so you had no choice but to mention his ears."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Rondo hid, embarrassed, and you escorted Olive to Neinheart to get evidence about the Master of Disguise."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="Neinheart confirmed that the Master of Disguise did in fact exist and Olive triumphantly rubbed it in Rondo&apos;s face."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="But now you wondered, who in Maple World was this so-called Master of Disguise?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="205">
+<string name="title" value="5. The Master of Disguise"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="With your latest lead, you finally felt like you were putting together the pieces to the puzzle."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Sugar, Tess, Rondo, and Olive met you at the El Nath Crystal Passageway to pursue the Master of Disguise."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="While there, Rondo overheard some Black Wings saying that their leaders were collecting Seal Stones, though they weren&apos;t sure why."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="With Sugar&apos;s help, you managed to defeat the Master of Disguise! You returned the Seal Stone to Athena Pierce, in person this time."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Everything worked out in the end, but the questions lingered."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="What were the Seal Stones? What was the Black Wings&apos; ultimate goal?"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="And most importantly of all, was the Black Mage directly involved in all of this?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="206">
+<string name="title" value="6. The Broken Seal"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You checked on various towns to make sure Maple World was prepared for the Black Mage&apos;s potential return, and in the process, discovered that the Gate of the Present was open."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You ventured through the gate, and at the end of a long corridor... you encountered the Black Mage himself. Upon further investigation, you discovered that one of his seals had broken."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Using the Seal Stone Athena Pierce had in her possession to replace the broken seal might stop the Black Mage from breaking free, or so you hoped."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="But as you were installing the Seal Stone, an unfamiliar voice spoke, sending chills tingling down your spine."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="#e&apos;Do not be a fool. Give in to the darkness.&apos;#n"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="You continued your mission, despite your fears, but just as you were screwing in the final bolt, the seal broke. A dark voice reverberated, then grew faint."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="#e&apos;You will pay for your foolishness...&apos;#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="207">
+<string name="title" value="7. Maple Island Disaster"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Before you could recover from your shock, Sugar contacted you, begging you to return to Maple Island. When you stepped off the ferry, you saw your beloved island was in flames."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Amidst the chaos, you learned that Sugar had fled. You headed toward Maple Tree Hill and found her battling a fire."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It wasn&apos;t until after you put out the fire that you saw that Sugar was hurt. When you brought her water to cool her wounds, she poured it onto the tree and said that all was now well."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As you and your friends mourned the island together, you suddenly realized... Perhaps you could use the Seal Stones to restore Maple Island! But you needed more information on how the stones worked."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="There was only one thing left to do. You had to visit the Heroes who created the stones and tap them for knowledge."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="208">
+<string name="title" value="8. Evan, the Magician Hero"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You were assigned to speak to Evan, so you traveled to a farm in Henesys. As Evan&apos;s brother greeted you, another boy came whooshing in on a dragon."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Although Evan didn&apos;t know much about Seal Stones himself, he gathered some information from Afrien, a dragon friend of his."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Though you had to run a small errand in exchange for the information..."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="You and Evan commented on how young the other was, and then you returned to Maple Island."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="When the others reconvened, you put together this knowledge:"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="#eMaple Island had no Seal Stone.#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="209">
+<string name="title" value="9. The Darkness Returns"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Even without a Seal Stone, you knew you couldn&apos;t give up on Maple Island."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="As you and the others rebuilt Maple Island, brick by  brick, a darkness crept back toward the island."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It was as dark as night, but you recognized it... the Black Mage&apos;s Shadow."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="His shadow held but a fraction of the Black Mage&apos;s true powers..."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="...yet not even your most powerful strikes could maim it."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="The others grew weary, as you fought futilely. The end was nigh."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Your friends poured the last of their strength into you. You knew it wouldn&apos;t be enough, but you were determined to try. Suddenly, a mystic glow poured out of you and a Maple Leaf floated before your eyes."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="210">
+<string name="title" value="10. The New Seal Stone"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Fascinated, you watched as the Maple Leaf transformed into a jewel."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Suddenly, power filled your veins and your attacks began to have an effect. It was the blessing of a Goddess."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You gave it everything you had, and in the end, you vanquished the darkness."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="The Goddess revealed she was spirit of Maple Island, who dwelled in the Maple Tree."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="She sensed that the world was in danger, and sent her other self, Sugar, to keep watch."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="She said the Maple Leaf had become the Seal Stone of Maple Island, formed out of your friends&apos; desire to save the island."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Using its power, you restored Maple Island to its original form."/>
+</imgdir>
+<imgdir name="7">
+<string name="text" value="Then, you hugged your friends goodbye."/>
+</imgdir>
+<imgdir name="8">
+<string name="text" value="And so this story drew to a close, but others had yet to begin. More adventures awaited those with the will to search for them."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="301">
+<string name="title" value="1. The Start of Adventure"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="It began with a tree, a maple tree. As you left its comforting embrace, you sensed that an adventure beyond your wildest dreams loomed ahead. A Maple Leaf brushed your shoes, and you tucked it into your Explorer Book as a reminder of your origins."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="And so, your adventure began."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="302">
+<string name="title" value="2. Tess, the Strange Explorer"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Your stay on Victoria Island began with a summons from Athena Pierce, who wanted you to visit Kyrin, the Pirate Instructor. Kyrin asked if you knew someone named Tess, but you didn&apos;t recognize the name."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="But fate was on your side, and you ran into him at the Six Path Crossway, mere moments after leaving Kyrin."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Tess kept calling you &apos;Kao&apos; and wanted you to help him battle a rabbit. You agreed, but he had to promise to answer some questions afterwards."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Even with your help, the rabbit got away. Tess tried to slip away too, but you stopped him in time."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="He revealed that he was Kyrin&apos;s brother and that he was investigating an evil organization. He hinted that something horrible was going to happen to Maple World soon."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="His parting words were a plea to keep his identity a secret, until he had a chance to tell Kyrin himself."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="303">
+<string name="title" value="3. The Stolen Jewel"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Olive said she was the one who was supposed to deliver the jewel to Athena Pierce in the first place and that she wanted to finish her delivery."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Olive laughed when you handed her the jewel, which gave you a bad feeling. So you were hardly surprised when Athena Pierce told you that Olive never showed up."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Athena Pierce also revealed that the jewel was actually a Seal Stone, an artifact of immense but mysterious powers. Who stole the Seal Stone? What evil plans were they hatching upon Maple World? And none of this was your fault, was it?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="304">
+<string name="title" value="4. Thieving, Scheming Black Wings"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="A summons brought you to the Bowman Instructional School, where your &apos;old friend&apos; Tess revealed that the Black Wings were behind the robbery."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You traveled to Edelstein, the Black Wings stronghold, to investigate, but quickly realized you needed to Black Wing Hat to infiltrate further."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="A boy passing by gave you a hat, but said it was pointless. Even if you got into their base, the Black Wing leaders wouldn&apos;t be around."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As you pondered how a young boy could know so much, he reappeared and handed you a file loaded with information about the Black Wing leaders. He left, claiming to be part of a &apos;Resistance.&apos;"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="The file revealed information about a Master of Disguise... So, the Black Wings were the ones responsible for the theft, not Olive?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="305">
+<string name="title" value="5. The Master of Disguise"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="With your latest lead, you finally felt like you were putting together the pieces to the puzzle."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Sugar, Tess, Rondo, and Olive met you at the El Nath Crystal Passageway to pursue the Master of Disguise."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="While there, Rondo overheard some Black Wings saying that their leaders were collecting Seal Stones, though they weren&apos;t sure why."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="With Sugar&apos;s help, you managed to defeat the Master of Disguise! You returned the Seal Stone to Athena Pierce, in person this time."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Everything worked out in the end, but the questions lingered."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="What were the Seal Stones? What was the Black Wings&apos; ultimate goal?"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="And most importantly of all, was the Black Mage directly involved in all of this?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="306">
+<string name="title" value="6. The Broken Seal"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You checked on various towns to make sure Maple World was prepared for the Black Mage&apos;s potential return, and in the process, discovered that the Gate of the Present was open."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You ventured through the gate, and at the end of a long corridor... you encountered the Black Mage himself. Upon further investigation, you discovered that one of his seals had broken."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Using the Seal Stone Athena Pierce had in her possession to replace the broken seal might stop the Black Mage from breaking free, or so you hoped."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="But as you were installing the Seal Stone, an unfamiliar voice spoke, sending chills tingling down your spine."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="#e&apos;Do not be a fool. Give in to the darkness.&apos;#n"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="You continued your mission, despite your fears, but just as you were screwing in the final bolt, the seal broke. A dark voice reverberated, then grew faint."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="#e&apos;You will pay for your foolishness...&apos;#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="307">
+<string name="title" value="7. Maple Island Disaster"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Before you could recover from your shock, Sugar contacted you, begging you to return to Maple Island. When you stepped off the ferry, you saw your beloved island was in flames."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Amidst the chaos, you learned that Sugar had fled. You headed toward Maple Tree Hill and found her battling a fire."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It wasn&apos;t until after you put out the fire that you saw that Sugar was hurt. When you brought her water to cool her wounds, she poured it onto the tree and said that all was now well."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As you and your friends mourned the island together, you suddenly realized... Perhaps you could use the Seal Stones to restore Maple Island! But you needed more information on how the stones worked."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="There was only one thing left to do. You had to visit the Heroes who created the stones and tap them for knowledge."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="308">
+<string name="title" value="8. Mercedes, the Bowmen Hero"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You were assigned to seek out Mercedes, so you visited the frozen, beautiful elven town of Elluel."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="While you waited for the queen to return, you entertained a child named Moonie. You were playing him a special song from a Music Box to help him get over his traumatic past when Mercedes appeared."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="She revealed the Maple Island didn&apos;t even exist when the Seal Stones were created hundreds of years ago. As you left for Maple Island, she advised you not to lose hope."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="When the others reconvened, you put together this knowledge:"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="#eMaple Island had no Seal Stone.#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="309">
+<string name="title" value="9. The Darkness Returns"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Even without a Seal Stone, you knew you couldn&apos;t give up on Maple Island."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="As you and the others rebuilt Maple Island, brick by  brick, a darkness crept back toward the island."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It was as dark as night, but you recognized it... the Black Mage&apos;s Shadow."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="His shadow held but a fraction of the Black Mage&apos;s true powers..."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="...yet not even your most powerful strikes could maim it."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="The others grew weary, as you fought futilely. The end was nigh."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Your friends poured the last of their strength into you. You knew it wouldn&apos;t be enough, but you were determined to try. Suddenly, a mystic glow poured out of you and a Maple Leaf floated before your eyes."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="310">
+<string name="title" value="10. The New Seal Stone"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Fascinated, you watched as the Maple Leaf transformed into a jewel."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Suddenly, power filled your veins and your attacks began to have an effect. It was the blessing of a Goddess."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You gave it everything you had, and in the end, you vanquished the darkness."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="The Goddess revealed she was spirit of Maple Island, who dwelled in the Maple Tree."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="She sensed that the world was in danger, and sent her other self, Sugar, to keep watch."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="She said the Maple Leaf had become the Seal Stone of Maple Island, formed out of your friends&apos; desire to save the island."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Using its power, you restored Maple Island to its original form."/>
+</imgdir>
+<imgdir name="7">
+<string name="text" value="Then, you hugged your friends goodbye."/>
+</imgdir>
+<imgdir name="8">
+<string name="text" value="And so this story drew to a close, but others had yet to begin. More adventures awaited those with the will to search for them."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="401">
+<string name="title" value="1. The Start of Adventure"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="It began with a tree, a maple tree. As you left its comforting embrace, you sensed that an adventure beyond your wildest dreams loomed ahead. A Maple Leaf brushed your shoes, and you tucked it into your Explorer Book as a reminder of your origins."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="And so, your adventure began."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="402">
+<string name="title" value="2. Olive Makes a Request"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="While exploring Victoria Island, you bumped into a shiny-seeking girl named Olive on the trail of a jewel held by the Thieves Guild."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Olive sent you to a secret Thieves Guild room to scout, but you stumbled into a fight!"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You managed to defeat the intruder. Olive complained that all the shiny stuff she likes gets stolen by others first."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="You and Olive concluded it must be a secret organization powerful enough to infiltrate the Thieves Guild..."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="403">
+<string name="title" value="3. The Stolen Jewel"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="When you finally got the jewel, Olive appeared and said she would deliver it to Athena Pierce."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="But you sensed something was off. When you questioned her, she transformed into a man and ran off."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Later, Athena Pierce revealed that the jewel was a Seal Stone, an artifact of immense but mysterious powers. Who stole the Seal Stone? And for what evil purpose?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="404">
+<string name="title" value="4. Digging for the Truth"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="The Dark Lord suspected that the Seal Stone was stolen by the Master of Disguise, a member of the Black Wings."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="But none of the Job Instructors understood why the Black Wings would want a Seal Stone. They needed more information."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="They sent you to Ereve to gather intel from the Cygnus Knights and to Edelstein, to speak to the Resistance."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Both Neinheart, the cold-hearted tactician of the knights, and Claudine, a leader of the notoriously close-lipped Resistance, provided you with all the knowledge they could."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Slowly, you pieced together that the Black Wings wanted to cause strife within the Explorer ranks. But why?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="405">
+<string name="title" value="5. The Master of Disguise"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="With your latest lead, you finally felt like you were putting together the pieces to the puzzle."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Sugar, Tess, Rondo, and Olive met you at the El Nath Crystal Passageway to pursue the Master of Disguise."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="While there, Rondo overheard some Black Wings saying that their leaders were collecting Seal Stones, though they weren&apos;t sure why."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="With Sugar&apos;s help, you managed to defeat the Master of Disguise! You returned the Seal Stone to Athena Pierce, in person this time."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Everything worked out in the end, but the questions lingered."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="What were the Seal Stones? What was the Black Wings&apos; ultimate goal?"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="And most importantly of all, was the Black Mage directly involved in all of this?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="406">
+<string name="title" value="6. The Broken Seal"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You checked on various towns to make sure Maple World was prepared for the Black Mage&apos;s potential return, and in the process, discovered that the Gate of the Present was open."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You ventured through the gate, and at the end of a long corridor... you encountered the Black Mage himself. Upon further investigation, you discovered that one of his seals had broken."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Using the Seal Stone Athena Pierce had in her possession to replace the broken seal might stop the Black Mage from breaking free, or so you hoped."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="But as you were installing the Seal Stone, an unfamiliar voice spoke, sending chills tingling down your spine."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="#e&apos;Do not be a fool. Give in to the darkness.&apos;#n"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="You continued your mission, despite your fears, but just as you were screwing in the final bolt, the seal broke. A dark voice reverberated, then grew faint."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="#e&apos;You will pay for your foolishness...&apos;#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="407">
+<string name="title" value="7. Maple Island Disaster"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Before you could recover from your shock, Sugar contacted you, begging you to return to Maple Island. When you stepped off the ferry, you saw your beloved island was in flames."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Amidst the chaos, you learned that Sugar had fled. You headed toward Maple Tree Hill and found her battling a fire."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It wasn&apos;t until after you put out the fire that you saw that Sugar was hurt. When you brought her water to cool her wounds, she poured it onto the tree and said that all was now well."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As you and your friends mourned the island together, you suddenly realized... Perhaps you could use the Seal Stones to restore Maple Island! But you needed more information on how the stones worked."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="There was only one thing left to do. You had to visit the Heroes who created the stones and tap them for knowledge."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="408">
+<string name="title" value="8. Phantom, the Thief Hero"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You were assigned to talk to Phantom, so you met with Empress Cygnus, who suggested writing a really big sign to flag down Phantom&apos;s airship."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You were perfecting your sign when Phantom finally showed up."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Phantom wanted to know your true motivation for battling the Black Mage. He stole your skills, to see if you had what it took."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="After pulling his little prank, Phantom revealed that the Seal Stones wouldn&apos;t help you. You had to save Maple Island with your own abilities. With that discouraging news, you head back."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="When the others reconvened, you put together this knowledge:"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="#eMaple Island had no Seal Stone.#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="409">
+<string name="title" value="9. The Darkness Returns"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Even without a Seal Stone, you knew you couldn&apos;t give up on Maple Island."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="As you and the others rebuilt Maple Island, brick by  brick, a darkness crept back toward the island."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It was as dark as night, but you recognized it... the Black Mage&apos;s Shadow."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="His shadow held but a fraction of the Black Mage&apos;s true powers..."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="...yet not even your most powerful strikes could maim it."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="The others grew weary, as you fought futilely. The end was nigh."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Your friends poured the last of their strength into you. You knew it wouldn&apos;t be enough, but you were determined to try. Suddenly, a mystic glow poured out of you and a Maple Leaf floated before your eyes."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="410">
+<string name="title" value="10. The New Seal Stone"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Fascinated, you watched as the Maple Leaf transformed into a jewel."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Suddenly, power filled your veins and your attacks began to have an effect. It was the blessing of a Goddess."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You gave it everything you had, and in the end, you vanquished the darkness."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="The Goddess revealed she was spirit of Maple Island, who dwelled in the Maple Tree."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="She sensed that the world was in danger, and sent her other self, Sugar, to keep watch."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="She said the Maple Leaf had become the Seal Stone of Maple Island, formed out of your friends&apos; desire to save the island."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Using its power, you restored Maple Island to its original form."/>
+</imgdir>
+<imgdir name="7">
+<string name="text" value="Then, you hugged your friends goodbye."/>
+</imgdir>
+<imgdir name="8">
+<string name="text" value="And so this story drew to a close, but others had yet to begin. More adventures awaited those with the will to search for them."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="501">
+<string name="title" value="1. The Start of Adventure"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="It began with a tree, a maple tree. As you left its comforting embrace, you sensed that an adventure beyond your wildest dreams loomed ahead. A Maple Leaf brushed your shoes, and you tucked it into your Explorer Book as a reminder of your origins."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="And so, your adventure began."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="502">
+<string name="title" value="2. Tess, the Strange Explorer"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Your stay on Victoria Island began with a summons from Kyrin, who wanted you to visit Athena Pierce, the famed Bowman Instructor. Athena Pierce asked if you knew someone named Tess, but you didn&apos;t recognize the name."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="But fate was on your side, and you ran into him at the Six Path Crossway, mere moments after leaving Athena Pierce."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Tess kept calling you &apos;Kao&apos; and wanted you to help him battle a rabbit. You agreed, but he had to promise to answer some questions afterwards."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Even with your help, the rabbit got away. Tess tried to slip away too, but you stopped him in time."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="He revealed that he was investigating an evil organization. He hinted that something horrible was going to happen to Maple World soon."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="His parting words were a plea to keep his identity a secret, until he had a chance to tell Athena Pierce himself."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="503">
+<string name="title" value="3. The Stolen Jewel"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Olive said she was the one who was supposed to deliver the jewel to Athena Pierce in the first place and that she wanted to finish her delivery."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Olive laughed when you handed her the jewel, which gave you a bad feeling. So you were hardly surprised when Athena Pierce told you that Olive never showed up."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Athena Pierce also revealed that the jewel was actually a Seal Stone, an artifact of immense but mysterious powers. Who stole the Seal Stone? What evil plans were they hatching upon Maple World? And none of this was your fault, was it?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="504">
+<string name="title" value="4. Thieving, Scheming Black Wings"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="A summons brought you to the Bowman Instructional School, where your &apos;old friend&apos; Tess revealed that the Black Wings were behind the robbery."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You traveled to Edelstein, the Black Wings stronghold, to investigate, but quickly realized you needed to Black Wing Hat to infiltrate further."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="A boy passing by gave you a hat, but said it was pointless. Even if you got into their base, the Black Wing leaders wouldn&apos;t be around."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As you pondered how a young boy could know so much, he reappeared and handed you a file loaded with information about the Black Wing leaders. He left, claiming to be part of a &apos;Resistance.&apos;"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="The file revealed information about a Master of Disguise... So, the Black Wings were the ones responsible for the theft, not Olive?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="505">
+<string name="title" value="5. The Master of Disguise"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="With your latest lead, you finally felt like you were putting together the pieces to the puzzle."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Sugar, Tess, Rondo, and Olive met you at the El Nath Crystal Passageway to pursue the Master of Disguise."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="While there, Rondo overheard some Black Wings saying that their leaders were collecting Seal Stones, though they weren&apos;t sure why."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="With Sugar&apos;s help, you managed to defeat the Master of Disguise! You returned the Seal Stone to Athena Pierce, in person this time."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Everything worked out in the end, but the questions lingered."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="What were the Seal Stones? What was the Black Wings&apos; ultimate goal?"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="And most importantly of all, was the Black Mage directly involved in all of this?"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="506">
+<string name="title" value="6. The Broken Seal"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You checked on various towns to make sure Maple World was prepared for the Black Mage&apos;s potential return, and in the process, discovered that the Gate of the Present was open."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You ventured through the gate, and at the end of a long corridor... you encountered the Black Mage himself. Upon further investigation, you discovered that one of his seals had broken."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Using the Seal Stone Athena Pierce had in her possession to replace the broken seal might stop the Black Mage from breaking free, or so you hoped."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="But as you were installing the Seal Stone, an unfamiliar voice spoke, sending chills tingling down your spine."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="#e&apos;Do not be a fool. Give in to the darkness.&apos;#n"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="You continued your mission, despite your fears, but just as you were screwing in the final bolt, the seal broke. A dark voice reverberated, then grew faint."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="#e&apos;You will pay for your foolishness...&apos;#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="507">
+<string name="title" value="7. Maple Island Disaster"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Before you could recover from your shock, Sugar contacted you, begging you to return to Maple Island. When you stepped off the ferry, you saw your beloved island was in flames."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Amidst the chaos, you learned that Sugar had fled. You headed toward Maple Tree Hill and found her battling a fire."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It wasn&apos;t until after you put out the fire that you saw that Sugar was hurt. When you brought her water to cool her wounds, she poured it onto the tree and said that all was now well."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="As you and your friends mourned the island together, you suddenly realized... Perhaps you could use the Seal Stones to restore Maple Island! But you needed more information on how the stones worked."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="There was only one thing left to do. You had to visit the Heroes who created the stones and tap them for knowledge."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="508">
+<string name="title" value="8. Luminous, the Final Hero"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="You were assigned to find Luminous, so you headed for the Forest Edge around Ellinia to search for him."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You stumbled upon a robot, which seemed out of place. It called you an intruder, so you fought it, thinking it had to be evil."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Luminous, the Magician of Light, showed up just as you defeated the robot, which turned out not to be an enemy after all."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="After you calmed him down, Luminous revealed that Seal Stones were created to seal the Black Mage away, but that this method wouldn&apos;t work a second time. He couldn&apos;t help you further."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="You parted with Luminous to return to Maple Island."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="When the others reconvened, you put together this knowledge:"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="#eMaple Island had no Seal Stone.#n"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="509">
+<string name="title" value="9. The Darkness Returns"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Even without a Seal Stone, you knew you couldn&apos;t give up on Maple Island."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="As you and the others rebuilt Maple Island, brick by  brick, a darkness crept back toward the island."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="It was as dark as night, but you recognized it... the Black Mage&apos;s Shadow."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="His shadow held but a fraction of the Black Mage&apos;s true powers..."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="...yet not even your most powerful strikes could maim it."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="The others grew weary, as you fought futilely. The end was nigh."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Your friends poured the last of their strength into you. You knew it wouldn&apos;t be enough, but you were determined to try. Suddenly, a mystic glow poured out of you and a Maple Leaf floated before your eyes."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="510">
+<string name="title" value="10. The New Seal Stone"/>
+<int name="align" value="1"/>
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Fascinated, you watched as the Maple Leaf transformed into a jewel."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Suddenly, power filled your veins and your attacks began to have an effect. It was the blessing of a Goddess."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You gave it everything you had, and in the end, you vanquished the darkness."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="The Goddess revealed she was spirit of Maple Island, who dwelled in the Maple Tree."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="She sensed that the world was in danger, and sent her other self, Sugar, to keep watch."/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="She said the Maple Leaf had become the Seal Stone of Maple Island, formed out of your friends&apos; desire to save the island."/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="Using its power, you restored Maple Island to its original form."/>
+</imgdir>
+<imgdir name="7">
+<string name="text" value="Then, you hugged your friends goodbye."/>
+</imgdir>
+<imgdir name="8">
+<string name="text" value="And so this story drew to a close, but others had yet to begin. More adventures awaited those with the will to search for them."/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
