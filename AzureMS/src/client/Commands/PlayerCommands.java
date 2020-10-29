@@ -19,7 +19,7 @@ import server.Maps.MapleMapHandling.MaplePortal;
 import tools.RandomStream.Randomizer;
 
 public class PlayerCommands {
-    @Command(names = {"help"}, parameters = "", requiredType = AccountType.PLAYER) 
+    @Command(names = {"help", "command", "commands"}, parameters = "", requiredType = AccountType.PLAYER)
     public static class Help extends PlayerCommand {
 
         @Override
@@ -624,6 +624,17 @@ public class PlayerCommands {
 	public static class AutoRebirth extends PlayerCommand {
 		@Override
 		public int execute(MapleCharacter c, String[] splitted) {
+			int autoRebirth = c.getAutoRebirth();
+			if(autoRebirth == 0){
+				c.setAutoRebirth(1);
+				c.dropMessage(5, "Auto Rebirth is ON");
+			}
+			else
+			{
+				c.setAutoRebirth(0);
+				c.dropMessage(5, "Auto Rebirth is OFF");
+			}
+
 			return 1;
 		}
 

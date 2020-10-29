@@ -117,6 +117,7 @@ import provider.MapleData;
 import provider.MapleDataProvider;
 import provider.MapleDataProviderFactory;
 import provider.MapleDataTool;
+import scripting.NPC.NPCScriptManager;
 import server.Items.InventoryManipulator;
 import server.Items.ItemInformation;
 import server.Items.MapleCashInventory;
@@ -183,7 +184,7 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
     public short combo;
     private List<MapleSummon> mines = new ArrayList<MapleSummon>();
     public IItem cashPacketTemp = null;
-    public int reborns, tierReborns, RecoveryShoot = 0;
+    public int reborns, tierReborns, RecoveryShoot, autoRebirth = 0;
     private int accountid, id, headtitle = 0, rank, rankMove, worldRank, worldRankdMove, mpApUsed, hpApUsed, hair,
             hair2, face, face2, remainingAp, fame, mapid, initialSpawnPoint, guildid, guildrank, allianceRank,
             fallcounter, maplepoints, nxcash, realcash, messengerposition, followid, chair, itemEffect, subcategory,
@@ -537,6 +538,7 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
         ret.worldRank = ct.worldRank;
         ret.worldRankdMove = ct.worldRankMove;
         ret.tierReborns = ct.tierReborns;
+        ret.autoRebirth = ct.autoRebirth;
         ret.reborns = ct.reborns;
         ret.guildid = ct.guildid;
         ret.guildrank = ct.guildrank;
@@ -797,6 +799,7 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
             ret.chatban = rs.getString("chatban");
             ret.betaclothes = rs.getInt("betaclothes");
             ret.burning = rs.getByte("burning");
+            ret.autoRebirth = rs.getByte("autoRebirth");
             ret.tierReborns = rs.getByte("tierReborns");
             ret.reborns = rs.getInt("reborns");
             ret.damagehit = rs.getInt("damagehit");
@@ -1289,7 +1292,7 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
             con.setTransactionIsolation(Connection.TRANSACTION_READ_UNCOMMITTED);
             con.setAutoCommit(false);
             ps = con.prepareStatement(
-                    "INSERT INTO characters (level, fame, str, dex, luk, `int`, exp, hp, mp, maxhp, maxmp, sp, ap, gm, skincolor, skincolor2, gender, gender2, job, hair, hair2, face, face2, wp, askguildid, map, meso, hpApUsed, mpApUsed, spawnpoint, party, buddyCapacity, messengerid, messengerposition, monsterbookcover, accountid, name, reborns, subcategory, rankpoint, gp, Soul, chatban, betaclothes, tierReborns) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                    "INSERT INTO characters (level, fame, str, dex, luk, `int`, exp, hp, mp, maxhp, maxmp, sp, ap, gm, skincolor, skincolor2, gender, gender2, job, hair, hair2, face, face2, wp, askguildid, map, meso, hpApUsed, mpApUsed, spawnpoint, party, buddyCapacity, messengerid, messengerposition, monsterbookcover, accountid, name, reborns, subcategory, rankpoint, gp, Soul, chatban, betaclothes, tierReborns, autoRebirth) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     MYSQL.RETURN_GENERATED_KEYS);
             final PlayerStats stat = chr.stats;
             int level = 1;
@@ -1346,6 +1349,7 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
             ps.setString(43, "false");
             ps.setInt(44, 0); // BetaClothes
             ps.setInt(45, chr.tierReborns);
+            ps.setInt(46, chr.autoRebirth);
             ps.executeUpdate();
 
             rs = ps.getGeneratedKeys();
@@ -1503,7 +1507,7 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
         try {
             con = MYSQL.getConnection();
                     ps = con.prepareStatement(
-                    "UPDATE characters SET level = ?, fame = ?, str = ?, dex = ?, luk = ?, `int` = ?, exp = ?, hp = ?, mp = ?, maxhp = ?, maxmp = ?, sp = ?, ap = ?, gm = ?, skincolor = ?, skincolor2 = ?, gender = ?, gender2 = ?, job = ?, hair = ?, hair2 = ?, face = ?, face2 = ?, wp = ?, askguildid = ?, map = ?, meso = ?, hpApUsed = ?, mpApUsed = ?, spawnpoint = ?, party = ?, buddyCapacity = ?, messengerid = ?, messengerposition = ?, reborns = ?, subcategory = ?, rankpoint = ?, gp = ?, Soul = ?, damage = ?, damagehit = ?, damagehit2 = ?, hope = ?, ambition = ?, insight = ?, willpower = ?, diligence = ?, empathy = ?, charm = ?, innerExp = ?, innerLevel = ?, artifactPoints = ?, morphGage = ?, firstProfession = ?, secondProfession = ?, firstProfessionLevel = ?, secondProfessionLevel = ?, firstProfessionExp = ?, secondProfessionExp = ?, fatigue = ?, last_command_time = ?, pet_id = ?, pet_loot = ?, pet_hp = ?, pet_mp = ?, chatban = ?, betaclothes = ?, burning = ?, loginpoint = ?, coreq = ?, tierReborns = ? WHERE id = ?",
+                    "UPDATE characters SET level = ?, fame = ?, str = ?, dex = ?, luk = ?, `int` = ?, exp = ?, hp = ?, mp = ?, maxhp = ?, maxmp = ?, sp = ?, ap = ?, gm = ?, skincolor = ?, skincolor2 = ?, gender = ?, gender2 = ?, job = ?, hair = ?, hair2 = ?, face = ?, face2 = ?, wp = ?, askguildid = ?, map = ?, meso = ?, hpApUsed = ?, mpApUsed = ?, spawnpoint = ?, party = ?, buddyCapacity = ?, messengerid = ?, messengerposition = ?, reborns = ?, subcategory = ?, rankpoint = ?, gp = ?, Soul = ?, damage = ?, damagehit = ?, damagehit2 = ?, hope = ?, ambition = ?, insight = ?, willpower = ?, diligence = ?, empathy = ?, charm = ?, innerExp = ?, innerLevel = ?, artifactPoints = ?, morphGage = ?, firstProfession = ?, secondProfession = ?, firstProfessionLevel = ?, secondProfessionLevel = ?, firstProfessionExp = ?, secondProfessionExp = ?, fatigue = ?, last_command_time = ?, pet_id = ?, pet_loot = ?, pet_hp = ?, pet_mp = ?, chatban = ?, betaclothes = ?, burning = ?, loginpoint = ?, coreq = ?, tierReborns = ?, autoRebirth = ? WHERE id = ?",
                     MYSQL.RETURN_GENERATED_KEYS);
                 
 
@@ -1620,6 +1624,7 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
             ps.setInt(++index, loginpoint);
             ps.setInt(++index, coreq);
             ps.setInt(++index, getTierReborns());
+            ps.setInt(++index, getAutoRebirth());
             ps.setInt(++index, id);
 
             if (ps.executeUpdate() < 1) {
@@ -2628,6 +2633,9 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
     public int getTierReborns(){
         return tierReborns;
         
+    }
+    public int getAutoRebirth(){
+        return autoRebirth;
     }
     public int getReborns() {
         return reborns;
@@ -5509,8 +5517,13 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
         else {
 
             exp = GameConstants.getExpNeededForLevel(level);
-            getClient().getSession().writeAndFlush(MainPacketCreator.OnAddPopupSay(1052230, 3500, "#face1#Please rebirth before gaining any other level. @rebirth", ""));
-
+            if(getAutoRebirth() == 1) {
+                NPCScriptManager.getInstance().dispose(getClient());
+                NPCScriptManager.getInstance().start(getClient(), 2510024, null);
+            }
+            else {
+                getClient().getSession().writeAndFlush(MainPacketCreator.OnAddPopupSay(1052230, 3500, "#face1#Please rebirth before gaining any other level. @rebirth", ""));
+            }
         }
         
     }
@@ -6204,7 +6217,10 @@ public class MapleCharacter extends AnimatedHinaMapObjectExtend implements Inven
 
     public void setTierReborns(int tierReborns) {
         this.tierReborns = tierReborns;
-        
+    }
+
+    public void setAutoRebirth(int autoRebirth) {
+        this.autoRebirth = autoRebirth;
     }
     public void setReborns(int reborns) {
         this.reborns = reborns;

@@ -24,7 +24,7 @@ public class ChracterTransfer implements Externalizable {
     public int hp, characterid, accountid, fame, str, dex, int_, luk, maxhp, maxmp, mp, hpApUsed, mpApUsed, remainingAp,
             hair, hair2, face, mapid, innerexp, innerlevel, initialSpawnPoint, rank, rankMove, worldRank, worldRankMove,
             guildid, buddysize, partyid, messengerid, messengerposition, nxcash, vpoints, MaplePoints, realcash,
-            mount_level, mount_itemid, mount_Fatigue, mount_exp, reborns, tierReborns, subcategory, headtitle, cardStack, fatigue,
+            mount_level, mount_itemid, mount_Fatigue, mount_exp, reborns, tierReborns, autoRebirth, subcategory, headtitle, cardStack, fatigue,
             petAutoHP, petAutoMP, exeedCount, loginpoint;
     public byte channel, gender, secondGender, skinColor, secondSkinColor, gmLevel, guildrank, alliancerank, burning;
     public short job;
@@ -133,6 +133,7 @@ public class ChracterTransfer implements Externalizable {
 
         this.reborns = chr.getReborns();
         this.tierReborns = chr.getTierReborns();
+        this.autoRebirth = chr.getAutoRebirth();
         this.InfoQuest = chr.getInfoQuest_Map();
 
         for (final Map.Entry<MapleQuest, MapleQuestStatus> qs : chr.getQuest_Map().entrySet()) {
@@ -255,6 +256,7 @@ public class ChracterTransfer implements Externalizable {
         this.messengerid = in.readInt();
         this.messengerposition = in.readInt();
         this.tierReborns = in.readInt();
+        this.autoRebirth = in.readInt();
         this.reborns = in.readInt();
         this.inventorys = in.readObject();
         this.InfoQuest = in.readObject();

@@ -1,6 +1,4 @@
-
 importPackage(Packages.client.items);
-
 importPackage(Packages.server.items);
 importPackage(Packages.tools);
 importPackage(java.util);
@@ -8,7 +6,6 @@ importPackage(java.lang);
 importPackage(java.io);
 importPackage(java.awt);
 importPackage(Packages.server);
-importPackage(Packages.server.items);
 importPackage(Packages.server.life);
 importPackage(Packages.tools.RandomStream);
 var enter = "\r\n";
@@ -91,30 +88,32 @@ function action(mode, type, sel) {
 			cm.dispose();
 			return;
 		}
-                if (!cm.canHold(1662002,1)) {
-		cm.sendOk("#fs11#Please free up more inventory space!");
-		cm.dispose();
-		return;
-                }
-		if (ftype == "아이템") {
-                	ItemInfo = ItemInformation.getInstance().getEquipById(fitem);
-		ItemInfo.setStr(shop[seld]['allstat']);
-                	ItemInfo.setDex(shop[seld]['allstat']);
-                	ItemInfo.setInt(shop[seld]['allstat']);
-                	ItemInfo.setLuk(shop[seld]['allstat']);
-                	ItemInfo.setWatk(shop[seld]['atk']);
-                	ItemInfo.setMatk(shop[seld]['atk']);
-
-                	InventoryManipulator.addFromDrop(cm.getClient(), ItemInfo, false);
+        if (!cm.canHold(1662002,1)) {
+            cm.sendOk("#fs11#Please free up more inventory space!");
+            cm.dispose();
+		    return;
+        }
+		if (ftype == "Item") {
+            ItemInfo = ItemInformation.getInstance().getEquipById(fitem);
+            ItemInfo.setStr(shop[seld]['allstat']);
+            ItemInfo.setDex(shop[seld]['allstat']);
+            ItemInfo.setInt(shop[seld]['allstat']);
+            ItemInfo.setLuk(shop[seld]['allstat']);
+            ItemInfo.setWatk(shop[seld]['atk']);
+            ItemInfo.setMatk(shop[seld]['atk']);
+            InventoryManipulator.addFromDrop(cm.getClient(), ItemInfo, false);
 			cm.getQuestRecord(201804).setCustomData((환포 - fprice) + "");
 			cm.sendOk("The transaction has been completed.");
 			cm.dispose();
-		} else if (ftype == "AdditionalDamage") {
+//		} else if (ftype == "AdditionalDamage") {
+        } else {
 			qqq = Randomizer.rand(shop[seld]['min'], shop[seld]['max']);
-			if (cm.getPlayer().getKeyValue("rcDamage") == null) cm.getPlayer().setKeyValue("rcDamage", "0");
+			if (cm.getPlayer().getKeyValue("rcDamage") == null){
+                cm.getPlayer().setKeyValue("rcDamage", "0");
+			}
 			cm.getPlayer().setKeyValue("rcDamage", ""+(Long.parseLong(cm.getPlayer().getKeyValue("rcDamage")) + qqq));
 			cm.getQuestRecord(201804).setCustomData((환포 - fprice) + "");
-			cm.sendOk("The transaction has been completed."+enter+"#fs11##bNow #h #Additional damage from : "+Long.parseLong(cm.getPlayer().getKeyValue("rcDamage"))+"(+"+qqq+")");
+			cm.sendOk("The transaction has been completed."+enter+"#fs11##bNow #h #Get damage from : "+Long.parseLong(cm.getPlayer().getKeyValue("rcDamage"))+"(+"+qqq+")");
 			cm.dispose();
 			//Chudem Payment
 		}

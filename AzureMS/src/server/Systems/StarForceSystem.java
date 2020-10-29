@@ -55,13 +55,13 @@ public class StarForceSystem {
                     scrollstaticvoid(Job, itemtype, level);
                 else {
                     scrollstring = new String[2];
-                    scrollstring[0] = "이노센트 주문서 30%";
-                    scrollstring[1] = "순백의 주문서 5%";
+                    scrollstring[0] = "Innocence Scroll 30%";
+                    scrollstring[1] = "Clean의 Scroll 5%";
                 }
                 String scroll = scrollstring[sposition];
-                if (scroll.startsWith("순백")) {
+                if (scroll.startsWith("Clean")) {
                     per = 5;
-                } else if (scroll.startsWith("이노센트")) {
+                } else if (scroll.startsWith("Innocence")) {
                     per = 30;
                 } else {
                     per = Integer.valueOf(scroll.split("%")[0]); // % 이전 맨 앞에서 값 출력
@@ -1231,7 +1231,7 @@ public class StarForceSystem {
         int percent = -1;
         String value = scrollstring[scrollnumber].split(" ")[1];
         if (success) {
-        	if (scrollstring[scrollnumber].startsWith("이노센트")) {
+        	if (scrollstring[scrollnumber].startsWith("Innocence")) {
                 chr.gainItem(주흔코드, (short) -5000, false, 0, null);
                 Equip origin = (Equip) ItemInformation.getInstance().getEquipById(item.getItemId());
                         item.setAcc(origin.getAcc());
@@ -1262,14 +1262,14 @@ public class StarForceSystem {
                 
     			return;
 
-        	} else if (scrollstring[scrollnumber].startsWith("순백")) {
+        	} else if (scrollstring[scrollnumber].startsWith("Clean")) {
                 item.setUpgradeSlots((byte)((byte)item.getUpgradeSlots() + 1));
                 chr.gainItem(주흔코드, (short) -3000, false, 0, null);
                 return;
         	} else {
             percent = Integer.valueOf(scrollstring[scrollnumber].split("%")[0]);
                 switch (value) {
-                	case "힘":
+                	case "STR":
                 		if (percent == 100) {
                 			item.addStr((short) 3);
                 			item.addHp((short) 20);
@@ -1287,7 +1287,7 @@ public class StarForceSystem {
                 			item.addMdef((short) 10);
                 		}
                 		break;
-                	case "민첩":
+                	case "DEX":
                 		if (percent == 100) {
                 			item.addDex((short) 3);
                 			item.addHp((short) 20);
@@ -1305,7 +1305,7 @@ public class StarForceSystem {
                 			item.addMdef((short) 10);
                 		}
                 		break;
-                	case "지력":
+                	case "INT":
                 		if (percent == 100) {
                 			item.addInt((short) 3);
                 			item.addHp((short) 20);
@@ -1323,7 +1323,7 @@ public class StarForceSystem {
                 			item.addMdef((short) 10);
                 		}
                 		break;
-                	case "행운":
+                	case "LUK":
                 		if (percent == 100) {
                 			item.addLuk((short) 3);
                 			item.addHp((short) 20);
@@ -1341,7 +1341,7 @@ public class StarForceSystem {
                 			item.addMdef((short) 10);
                 		}
                 		break;
-                	case "체력":
+                	case "Health":
                 		if (percent == 100) {
                 			item.addHp((short) 180);
                 			item.addWdef((short) 3);
@@ -1356,7 +1356,7 @@ public class StarForceSystem {
                 			item.addMdef((short) 10);
                 		}
                 		break;
-                	case "공격력":
+                	case "Attack":
                 		if (percent == 70 && (item.getItemId() / 10000 == 108)) {
                 			item.addWatk((short) 2);
                 		} else if (percent == 30 && (item.getItemId() / 10000 == 108)) {
@@ -1367,7 +1367,7 @@ public class StarForceSystem {
                 			item.addWatk((short) 5);
                 		}
                 		break;
-                	case "마력":
+                	case "Magic":
                 		if (percent == 70 && (item.getItemId() / 10000 == 108)) {
                 			item.addMatk((short) 2);
                 		} else if (percent == 30 && (item.getItemId() / 10000 == 108)) {
@@ -1378,7 +1378,7 @@ public class StarForceSystem {
                 			item.addMatk((short) 5);
                 		}
                 		break;
-                	case "방어력":
+                	case "Defense":
                 		if (percent == 100) {
                 			item.addWdef((short) 3);
                 			item.addMdef((short) 3);
@@ -1390,7 +1390,7 @@ public class StarForceSystem {
                 			item.addMdef((short) 10);
                 		}
                 		break;
-                	case "공격력(힘)": 
+                	case "Attack(STR)": 
                 		if (percent == 30) {
                 			item.addWatk((short) 7);
                 			item.addStr((short) 3);
@@ -1399,7 +1399,7 @@ public class StarForceSystem {
                 			item.addStr((short) 4);
                 		}
                 		break;
-                	case "마력(지력)":
+                	case "Magic(INT)":
                 		if (percent == 30) {
                 			item.addMatk((short) 7);
                 			item.addInt((short) 3);
@@ -1408,7 +1408,7 @@ public class StarForceSystem {
                 			item.addInt((short) 4);
                 		}
                 		break;
-                	case "공격력(민첩)":
+                	case "Attack(DEX)":
                 		if (percent == 30) {
                 			item.addWatk((short) 7);
                 			item.addDex((short) 3);
@@ -1417,7 +1417,7 @@ public class StarForceSystem {
                 			item.addDex((short) 4);
                 		}
                 		break;
-                	case "공격력(행운)":
+                	case "Attack(LUK)":
                 		if (percent == 30) {
                 			item.addWatk((short) 7);
                 			item.addLuk((short) 3);
@@ -1434,15 +1434,15 @@ public class StarForceSystem {
             }
         } else {
             if (!ItemFlag.SAFETY.check(item.getFlag())) {
-            	if (!(scrollstring[scrollnumber].startsWith("이노센트") || scrollstring[scrollnumber].startsWith("순백"))) {
+            	if (!(scrollstring[scrollnumber].startsWith("Innocence") || scrollstring[scrollnumber].startsWith("Clean"))) {
             		item.setUpgradeSlots((byte)((byte)item.getUpgradeSlots() - 1));
             	}
             }
 
-            if (scrollstring[scrollnumber].startsWith("이노센트")) {
+            if (scrollstring[scrollnumber].startsWith("Innocence")) {
                 chr.gainItem(주흔코드, (short) -5000, false, 0, null);
         	}
-            if (scrollstring[scrollnumber].startsWith("순백")) {
+            if (scrollstring[scrollnumber].startsWith("Clean")) {
             	chr.gainItem(주흔코드, (short) -3000, false, 0, null);
             }
         }
@@ -1522,70 +1522,70 @@ public class StarForceSystem {
         setJuhun(level, a);
         if (itemtype == 167) {
         	scrollstring = new String[16];
-        	scrollstring[0] = "100% 공격력 주문서";
-        	scrollstring[1] = "70% 공격력 주문서";
-        	scrollstring[2] = "30% 공격력(힘) 주문서";
-        	scrollstring[3] = "15% 공격력(힘) 주문서";
-        	scrollstring[4] = "30% 공격력(민첩) 주문서";
-        	scrollstring[5] = "15% 공격력(민첩) 주문서";
-        	scrollstring[6] = "30% 공격력(행운) 주문서";
-        	scrollstring[7] = "15% 공격력(행운) 주문서";
-        	scrollstring[8] = "100% 마력 주문서";
-        	scrollstring[9] = "70% 마력 주문서";
-        	scrollstring[10] = "30% 마력(지력) 주문서";
-        	scrollstring[11] = "15% 마력(지력) 주문서";
-        	scrollstring[12] = "이노센트 주문서 30%";
-        	scrollstring[13] = "순백의 주문서 5%";
-        	scrollstring[14] = "이노센트 주문서 30%";
-        	scrollstring[15] = "순백의 주문서 5%";
+        	scrollstring[0] = "100% Attack Scroll";
+        	scrollstring[1] = "70% Attack Scroll";
+        	scrollstring[2] = "30% Attack(STR) Scroll";
+        	scrollstring[3] = "15% Attack(STR) Scroll";
+        	scrollstring[4] = "30% Attack(DEX) Scroll";
+        	scrollstring[5] = "15% Attack(DEX) Scroll";
+        	scrollstring[6] = "30% Attack(LUK) Scroll";
+        	scrollstring[7] = "15% Attack(LUK) Scroll";
+        	scrollstring[8] = "100% Magic Scroll";
+        	scrollstring[9] = "70% Magic Scroll";
+        	scrollstring[10] = "30% Magic(INT) Scroll";
+        	scrollstring[11] = "15% Magic(INT) Scroll";
+        	scrollstring[12] = "Innocence Scroll 30%";
+        	scrollstring[13] = "Clean의 Scroll 5%";
+        	scrollstring[14] = "Innocence Scroll 30%";
+        	scrollstring[15] = "Clean의 Scroll 5%";
         } else if (a) {
         	scrollstring = new String[10];
-        	scrollstring[0] = "100% 공격력 주문서";
-        	scrollstring[1] = "70% 공격력 주문서";
-        	scrollstring[2] = "30% 공격력(힘) 주문서";
-        	scrollstring[3] = "15% 공격력(힘) 주문서";
-        	scrollstring[4] = "30% 공격력(민첩) 주문서";
-        	scrollstring[5] = "15% 공격력(민첩) 주문서";
-        	scrollstring[6] = "30% 공격력(행운) 주문서";
-        	scrollstring[7] = "15% 공격력(행운) 주문서";
-        	scrollstring[8] = "이노센트 주문서 30%";
-        	scrollstring[9] = "순백의 주문서 5%";
+        	scrollstring[0] = "100% Attack Scroll";
+        	scrollstring[1] = "70% Attack Scroll";
+        	scrollstring[2] = "30% Attack(STR) Scroll";
+        	scrollstring[3] = "15% Attack(STR) Scroll";
+        	scrollstring[4] = "30% Attack(DEX) Scroll";
+        	scrollstring[5] = "15% Attack(DEX) Scroll";
+        	scrollstring[6] = "30% Attack(LUK) Scroll";
+        	scrollstring[7] = "15% Attack(LUK) Scroll";
+        	scrollstring[8] = "Innocence Scroll 30%";
+        	scrollstring[9] = "Clean의 Scroll 5%";
         } else if (a2) {
         	scrollstring = new String[6];
-        	scrollstring[0] = "100% 마력 주문서";
-        	scrollstring[1] = "70% 마력 주문서";
-        	scrollstring[2] = "30% 마력(지력) 주문서";
-        	scrollstring[3] = "15% 마력(지력) 주문서";
-        	scrollstring[4] = "이노센트 주문서 30%";
-        	scrollstring[5] = "순백의 주문서 5%";
+        	scrollstring[0] = "100% Magic Scroll";
+        	scrollstring[1] = "70% Magic Scroll";
+        	scrollstring[2] = "30% Magic(INT) Scroll";
+        	scrollstring[3] = "15% Magic(INT) Scroll";
+        	scrollstring[4] = "Innocence Scroll 30%";
+        	scrollstring[5] = "Clean의 Scroll 5%";
         } else if (b) {
         	scrollstring = new String[17];
-        	scrollstring[0] = "100% 힘 주문서";
-        	scrollstring[1] = "70% 힘 주문서";
-        	scrollstring[2] = "30% 힘 주문서";
-        	scrollstring[3] = "100% 지력 주문서";
-        	scrollstring[4] = "70% 지력 주문서";
-        	scrollstring[5] = "30% 지력 주문서";
-        	scrollstring[6] = "100% 민첩 주문서";
-        	scrollstring[7] = "70% 민첩 주문서";
-        	scrollstring[8] = "30% 민첩 주문서";
-        	scrollstring[9] = "100% 행운 주문서";
-        	scrollstring[10] = "70% 행운 주문서";
-        	scrollstring[11] = "30% 행운 주문서";
-        	scrollstring[12] = "100% 체력 주문서";
-        	scrollstring[13] = "70% 체력 주문서";
-        	scrollstring[14] = "30% 체력 주문서";
-        	scrollstring[15] = "이노센트 주문서 30%";
-        	scrollstring[16] = "순백의 주문서 5%";
+        	scrollstring[0] = "100% STR Scroll";
+        	scrollstring[1] = "70% STR Scroll";
+        	scrollstring[2] = "30% STR Scroll";
+        	scrollstring[3] = "100% INT Scroll";
+        	scrollstring[4] = "70% INT Scroll";
+        	scrollstring[5] = "30% INT Scroll";
+        	scrollstring[6] = "100% DEX Scroll";
+        	scrollstring[7] = "70% DEX Scroll";
+        	scrollstring[8] = "30% DEX Scroll";
+        	scrollstring[9] = "100% LUK Scroll";
+        	scrollstring[10] = "70% LUK Scroll";
+        	scrollstring[11] = "30% LUK Scroll";
+        	scrollstring[12] = "100% Health Scroll";
+        	scrollstring[13] = "70% Health Scroll";
+        	scrollstring[14] = "30% Health Scroll";
+        	scrollstring[15] = "Innocence Scroll 30%";
+        	scrollstring[16] = "Clean의 Scroll 5%";
         } else if (c) {
         	scrollstring = new String[7];
-        	scrollstring[0] = "70% 공격력 주문서";
-        	scrollstring[1] = "30% 공격력 주문서";
-        	scrollstring[2] = "70% 마력 주문서";
-        	scrollstring[3] = "30% 마력 주문서";
-        	scrollstring[4] = "100% 방어력 주문서";
-        	scrollstring[5] = "이노센트 주문서 30%";
-        	scrollstring[6] = "순백의 주문서 5%";
+        	scrollstring[0] = "70% Attack Scroll";
+        	scrollstring[1] = "30% Attack Scroll";
+        	scrollstring[2] = "70% Magic Scroll";
+        	scrollstring[3] = "30% Magic Scroll";
+        	scrollstring[4] = "100% Defense Scroll";
+        	scrollstring[5] = "Innocence Scroll 30%";
+        	scrollstring[6] = "Clean의 Scroll 5%";
         }
     }
     private static void setJuhun(int level, boolean weapon) {
@@ -1716,9 +1716,9 @@ public class StarForceSystem {
     		return usejuhun[2];
     	} else if (scroll.startsWith("15%")) {
     		return usejuhun[3];
-    	} else if (scroll.contains("이노센트")) {
+    	} else if (scroll.contains("Innocence")) {
     		return 5000;
-    	} else if (scroll.contains("순백")) {
+    	} else if (scroll.contains("Clean")) {
     		return 3000;
     	} else {
     		return 0;
@@ -1726,30 +1726,30 @@ public class StarForceSystem {
     }
     
     public static int scrollstatic(String scroll) {
-    	if (scroll.contains("공격력") || scroll.contains("마력")) {
-    		if (((scroll.startsWith("100%") || scroll.startsWith("70%")) && scroll.contains("공격력")) || scroll.equals("30% 공격력 주문서")) {
+    	if (scroll.contains("Attack") || scroll.contains("Magic")) {
+    		if (((scroll.startsWith("100%") || scroll.startsWith("70%")) && scroll.contains("Attack")) || scroll.equals("30% Attack Scroll")) {
     			return 1;
-    		} else if (((scroll.startsWith("100%") || scroll.startsWith("70%")) && scroll.contains("마력")) || scroll.equals("30% 마력 주문서")) {
+    		} else if (((scroll.startsWith("100%") || scroll.startsWith("70%")) && scroll.contains("Magic")) || scroll.equals("30% Magic Scroll")) {
     			return 2;
-    		} else if (scroll.contains("힘")) {
+    		} else if (scroll.contains("STR")) {
     			return 5;
-    		} else if (scroll.contains("민첩")) {
+    		} else if (scroll.contains("DEX")) {
     			return 9;
-    		} else if (scroll.contains("행운")) {
+    		} else if (scroll.contains("LUK")) {
     			return 33;
     		}
     	} else {
-    		if (scroll.contains("힘")) {
+    		if (scroll.contains("STR")) {
     			return 324;
-    		} else if (scroll.contains("민첩")) {
+    		} else if (scroll.contains("DEX")) {
     			return 328;
-    		} else if (scroll.contains("지력")) {
+    		} else if (scroll.contains("INT")) {
     			return 336;
-    		} else if (scroll.contains("행운")) {
+    		} else if (scroll.contains("LUK")) {
     			return 352;
-    		} else if (scroll.contains("체력")) {
+    		} else if (scroll.contains("Health")) {
     			return 320;
-    		} else if (scroll.contains("방어력")) {
+    		} else if (scroll.contains("Defense")) {
     			return 64;
     		}
     	}
@@ -1765,9 +1765,9 @@ public class StarForceSystem {
 			return 2;
 		} else if (string.startsWith("15")) {
 			return 3;
-		} else if (string.startsWith("이노센트")) {
+		} else if (string.startsWith("Innocence")) {
 			return 4;
-		} else if (string.startsWith("순백")) {
+		} else if (string.startsWith("Clean")) {
 			return 5;
 		}
 			return 0;
@@ -1789,18 +1789,18 @@ public class StarForceSystem {
                     scrollstaticvoid(Job, itemtype, level);
             else {
                     scrollstring = new String[2];
-                    scrollstring[0] = "이노센트 주문서 30%";
-                    scrollstring[1] = "순백의 주문서 5%";
+                    scrollstring[0] = "Innocence Scroll 30%";
+                    scrollstring[1] = "Clean의 Scroll 5%";
             }
             packet.write(scrollstring.length);
             for (int i = 0; i < scrollstring.length; i++) {
                     packet.writeInt(scrolltype(scrollstring[i]));
                     packet.writeMapleAsciiString(scrollstring[i]);
-                    packet.writeInt(scrollstring[i].contains("순백") ? 2 : scrollstring[i].contains("이노센트") ? 1 : 0); // 특수 주문서
-                    packet.writeInt((scrollstring[i].contains("이노센트") || scrollstring[i].contains("순백")) ? 1 : 0); // 특수 주문서
+                    packet.writeInt(scrollstring[i].contains("Clean") ? 2 : scrollstring[i].contains("Innocence") ? 1 : 0); // 특수 Scroll
+                    packet.writeInt((scrollstring[i].contains("Innocence") || scrollstring[i].contains("Clean")) ? 1 : 0); // 특수 Scroll
                     packet.writeInt(scrollstatic(scrollstring[i]));
                     switch (scrollstatic(scrollstring[i])) {
-                            case 0: // Whiteness, Ino
+                            case 0: // Cleanness, Ino
                                     break;
                             case 1: // ATT
                             case 2: // M.ATT
