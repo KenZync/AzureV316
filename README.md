@@ -3,7 +3,7 @@ I just want to add something
 ## Added Features
  - **English Patch**
    - **StarForce Scroll**
-   - **Item, NPC, Skill Names**
+   - **Item, NPC, Skills**
  - **Commands**
    - **@autorebirth, autorb**: toggle for auto rebirthing (If you fork me pls add table "autoRebirth" as integer in characters table
    - **@quickrebirth, quickrb, qrb**: rebirth without yes/no dialogue
