@@ -7,6 +7,8 @@ I just want to add something
  - **Commands**
    - **@autorebirth, autorb**: toggle for auto rebirthing (If you fork me pls add table "autoRebirth" as integer in characters table
    - **@quickrebirth, quickrb, qrb**: rebirth without yes/no dialogue
+
+---
 # AzureV316
 AzureMS v316 KMS, 
 
